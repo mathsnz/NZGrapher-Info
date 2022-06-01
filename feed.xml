@@ -3,12 +3,58 @@
     <title>NZGrapher Support</title>
     <link href="https://info.grapher.nz/feed.xml" rel="self" />
     <link href="https://info.grapher.nz" />
-    <updated>2022-06-02T09:27:13+12:00</updated>
+    <updated>2022-06-02T09:38:06+12:00</updated>
     <author>
         <name>Jake Wills</name>
     </author>
     <id>https://info.grapher.nz</id>
 
+    <entry>
+        <title>Teaching Tools</title>
+        <author>
+            <name>Jake Wills</name>
+        </author>
+        <link href="https://info.grapher.nz/teaching-tools.html"/>
+        <id>https://info.grapher.nz/teaching-tools.html</id>
+
+        <updated>2022-06-02T09:37:26+12:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li><a href="#mcetoc_1g4gj3jufbr">Bootstrapping</a></li>
+<li><a href="#mcetoc_1g4gj5j0bcj">Re-Randomisation</a></li>
+<li><a href="#mcetoc_1g4gj7cs5cn">Sampling Variability</a></li>
+</ul>
+</div>
+<h1 id="mcetoc_1g4gj3jufbr">Bootstrapping</h1>
+<p class="post__video"><div class="post__iframe"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/0bYWD-Lkzxo" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
+<h1 id="mcetoc_1g4gj5j0bcj">Re-Randomisation</h1>
+<p class="post__video"><div class="post__iframe"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/Je3qz5rpK5I" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
+<div class="hJDwNd-AhqUyc-qWD73c purZT-AhqUyc-II5mzb pSzOP-AhqUyc-qWD73c JNdkSc">
+<div class="JNdkSc-SmKAyb">
+<div class="">
+<div class="oKdM2c Kzv0Me">
+<div id="h.3c3a053b37a7c6f8_8" class="hJDwNd-AhqUyc-qWD73c jXK9ad D2fZ2 OjCsFc wHaque">
+<div class="jXK9ad-SmKAyb">
+<div class="tyJCtd OWlOyc baZpAe">
+<div class="WIdY2d M1aSXe">
+<h1 id="mcetoc_1g4gj7cs5cn">Sampling Variability</h1>
+<p><br><div class="post__iframe"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/50oBxZw3IIE" allowfullscreen="allowfullscreen"></iframe></div>
+<p> </p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>NZGrapher Usage</title>
         <author>
@@ -1442,7 +1488,7 @@
         <link href="https://info.grapher.nz/nzgrapher.html"/>
         <id>https://info.grapher.nz/nzgrapher.html</id>
 
-        <updated>2022-06-02T09:27:13+12:00</updated>
+        <updated>2022-06-02T09:38:06+12:00</updated>
             <summary>
                 <![CDATA[
                     NZGrapher is an online graphing tool specifically designed for supporting the teaching of the statistics in New Zealand. The idea&hellip;
@@ -1456,7 +1502,7 @@
 <li dir="ltr">NZGrapher Support
 <ul>
 <li dir="ltr">Video Tutorials</li>
-<li dir="ltr">Teaching Tools</li>
+<li dir="ltr"><a href="https://info.grapher.nz/teaching-tools.html">Teaching Tools</a></li>
 <li dir="ltr"><a href="https://info.grapher.nz/dataset-info.html">Dataset Information</a></li>
 <li dir="ltr">Graph Information</li>
 <li dir="ltr">Function Information</li>
