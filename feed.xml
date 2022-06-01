@@ -3,7 +3,7 @@
     <title>NZGrapher Support</title>
     <link href="https://info.grapher.nz/feed.xml" rel="self" />
     <link href="https://info.grapher.nz" />
-    <updated>2022-06-01T19:57:05+12:00</updated>
+    <updated>2022-06-01T20:14:00+12:00</updated>
     <author>
         <name>Jake Wills</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://info.grapher.nz/nzgrapher.html"/>
         <id>https://info.grapher.nz/nzgrapher.html</id>
 
-        <updated>2022-06-01T19:57:05+12:00</updated>
+        <updated>2022-06-01T20:14:00+12:00</updated>
             <summary>
                 <![CDATA[
                     This Site contains links to the NZQA and TKI websites to help find the info for NCEA easily, as well as supporting material for NZGrapher. To see the old materials that used to be on here go to https://old.mathsnz.com and https://students.mathsnz.com. The resources there are&hellip;
@@ -30,16 +30,15 @@
 <p class="CDt4Ke zfr3Q" dir="ltr">If you see any errors on this site please <span class=" aw5Odc"><a href="mailto:jwills@mathsnz.com" target="_blank" rel="noopener noreferrer">let me know</a></span>.</p>
 <h6 class="CDt4Ke zfr3Q" dir="ltr"><strong>Things I get asked frequently:</strong></h6>
 <ul>
-<li class="CDt4Ke zfr3Q" dir="ltr"><span class=" aw5Odc"><a class="XqQF9c" href="https://www.mathsnz.com/nzgrapher-info/dataset-information">Do you have info on the datasets on NZGrapher?</a></span></li>
+<li class="CDt4Ke zfr3Q" dir="ltr"><span class=" aw5Odc">Do you have info on the datasets on NZGrapher?</span></li>
 <li class="CDt4Ke zfr3Q" dir="ltr"><span class=" aw5Odc"><a class="XqQF9c" href="https://drive.google.com/open?id=1AdjCv38CeTzo-TEtlJ0qe04ei9KF2Rut" target="_blank" rel="noopener">How does NZGrapher produce its time series graphs?</a></span></li>
 <li class="CDt4Ke zfr3Q" dir="ltr"><span class=" aw5Odc"><a class="XqQF9c" href="https://drive.google.com/open?id=1ajcMPM7jN8G5o4xQ2STcvDalM8vMaIes" target="_blank" rel="noopener">Why does residuals plots have 'fitted' on the x axis?</a></span></li>
-<li class="CDt4Ke zfr3Q" dir="ltr"><span class=" aw5Odc"><a class="XqQF9c" href="https://drive.google.com/file/d/1rxXrJH46sjfiPH7TBwjgeeEG-oeXzsOc/view?usp=sharing" target="_blank" rel="noopener">What effect does sample size have on bootstrapping?</a></span></li>
+<li class="CDt4Ke zfr3Q" dir="ltr"><span class=" aw5Odc"><a href="https://drive.google.com/file/d/1rxXrJH46sjfiPH7TBwjgeeEG-oeXzsOc/view?usp=sharing" target="_blank" rel="noopener noreferrer">What effect does sample size have on bootstrapping?</a></span></li>
 <li class="CDt4Ke zfr3Q" dir="ltr"><span class=" aw5Odc"><a class="XqQF9c" href="https://docs.google.com/document/d/18vUhckUk_dlgTupwGmL19OgiPKHG90vSrLEzUTnbquw/edit?usp=sharing" target="_blank" rel="noopener">What happens when I can't paste? (Clipboard Access)</a></span></li>
 </ul>
-<p> </p>
 <h6 class="CDt4Ke zfr3Q" dir="ltr"><strong>Other Random Things</strong></h6>
 <ul>
-<li class="CDt4Ke zfr3Q" dir="ltr"><span class=" aw5Odc"><a class="XqQF9c" href="https://www.google.com/url?q=https%3A%2F%2Fold.mathsnz.com%2Fresources%2Ffiles%2F3.12%2Fmoe&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw292CksLrQ6_ZlwwSvWGAmm" target="_blank" rel="noopener">Margin of Error Simulator</a></span></li>
+<li class="CDt4Ke zfr3Q" dir="ltr"><span class=" aw5Odc"><a href="https://old.mathsnz.com/resources/files/3.12/moe" target="_blank" rel="noopener noreferrer">Margin of Error Simulator</a></span></li>
 </ul>
 <p> </p>
             ]]>
