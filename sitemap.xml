@@ -5,8 +5,16 @@
 <loc>https://info.grapher.nz/</loc>
 </url>
 <url>
+<loc>https://info.grapher.nz/contact.html</loc>
+<lastmod>2022-06-02T19:10:27+12:00</lastmod>
+</url>
+<url>
 <loc>https://info.grapher.nz/dataset-info.html</loc>
 <lastmod>2022-06-02T09:22:48+12:00</lastmod>
+</url>
+<url>
+<loc>https://info.grapher.nz/donate.html</loc>
+<lastmod>2022-06-02T19:13:26+12:00</lastmod>
 </url>
 <url>
 <loc>https://info.grapher.nz/ncea-info.html</loc>
@@ -23,6 +31,10 @@
 <url>
 <loc>https://info.grapher.nz/ncea-level-3.html</loc>
 <lastmod>2022-06-01T20:31:05+12:00</lastmod>
+</url>
+<url>
+<loc>https://info.grapher.nz/nzgrapher-invoice.html</loc>
+<lastmod>2022-06-02T19:13:10+12:00</lastmod>
 </url>
 <url>
 <loc>https://info.grapher.nz/nzgrapher-usage.html</loc>

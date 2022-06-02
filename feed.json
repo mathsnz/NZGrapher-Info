@@ -11,6 +11,48 @@
     },
     "items": [
         {
+            "id": "https://info.grapher.nz/nzgrapher-invoice.html",
+            "url": "https://info.grapher.nz/nzgrapher-invoice.html",
+            "title": "NZGrapher Invoice",
+            "summary": "The form below allows you to create an invoice that you can pass onto your school for the use of&hellip;",
+            "content_html": "<p id=\"h.p_LFsc8mQl5sKQ\" class=\"CDt4Ke zfr3Q\">The form below allows you to create an invoice that you can pass onto your school for the use of NZGrapher. Once you press the \"make invoice\" button you can download the PDF and send it through to your accounts people to pay... you need to download it and not just send the link. Just sending the link will just send a blank invoice.</p>\n<p id=\"h.p__tsyu3Ad5yz4\" class=\"CDt4Ke zfr3Q\">Any questions please <a class=\"dhtgD aw5Odc\" href=\"https://www.mathsnz.com/contact\">contact me</a>.</p>\n<p class=\"align-right\"><small id=\"h.p_sbWv83WwfQcW\" class=\"CDt4Ke zfr3Q TMjjoe\"><em>Form not showing below? <a class=\"dhtgD aw5Odc\" href=\"https://www.google.com/url?q=https%3A%2F%2Fserver.mathsnz.com%2Finvoicecreator.php&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3meEOFPQp73fwV9TcFH7uy\" target=\"_blank\" rel=\"noopener\">Click here</a>.</em></small></p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" style=\"width: 100%; height: 600px; border: none;\" src=\"https://server.mathsnz.com/invoicecreator.php\"></iframe></div>",
+            "author": {
+                "name": "Jake Wills"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-06-02T19:13:10+12:00",
+            "date_modified": "2022-06-02T19:13:10+12:00"
+        },
+        {
+            "id": "https://info.grapher.nz/contact.html",
+            "url": "https://info.grapher.nz/contact.html",
+            "title": "Contact",
+            "summary": "The best way to get in touch is via email. If you want to have a phone conversation, send me&hellip;",
+            "content_html": "<p id=\"h.p_3H44lyCm572g\" class=\"CDt4Ke zfr3Q\">The best way to get in touch is via email. If you want to have a phone conversation, send me an email and we can arrange a time to talk. As I am a teacher I am not always available during the day.</p>\n<p id=\"h.p_cealISoZ6Vfr\" class=\"CDt4Ke zfr3Q\">Email: <a class=\"dhtgD aw5Odc\" href=\"mailto:jwills@mathsnz.com\" target=\"_blank\" rel=\"noopener\">jwills@mathsnz.com</a></p>\n<p id=\"h.p_50WW-istT4vB\" class=\"CDt4Ke zfr3Q\">You can also sign up to my termly email newsletter here: <a href=\"http://eepurl.com/4JD3v\" target=\"_blank\" rel=\"noopener noreferrer\">http://eepurl.com/4JD3v</a></p>",
+            "author": {
+                "name": "Jake Wills"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-06-02T19:10:27+12:00",
+            "date_modified": "2022-06-02T19:10:27+12:00"
+        },
+        {
+            "id": "https://info.grapher.nz/donate.html",
+            "url": "https://info.grapher.nz/donate.html",
+            "title": "Donate",
+            "summary": "Thank you to all the schools and individuals who have supported me so far, your donations have been appreciated and&hellip;",
+            "content_html": "<p id=\"h.p_pTlNpMke4Kuz\" class=\"CDt4Ke zfr3Q\">Thank you to all the schools and individuals who have supported me so far, your donations have been appreciated and enable me to continue to pay for the resources I need to develop this site.</p>\n<p id=\"h.p_Dtu7FM3s4K9D\" class=\"CDt4Ke zfr3Q\">If you would like to make a donation, big or small, you can donate using either of the buttons below.</p>\n<p id=\"h.p_RPDioSoD4wsh\" class=\"CDt4Ke zfr3Q\">These buttons use PayPal... but even if you don't have a PayPal account you can still use these buttons and use your credit card.</p>\n<p id=\"h.p_SVknEIx45dMJ\" class=\"CDt4Ke zfr3Q\">If you need an invoice please <a href=\"https://info.grapher.nz/nzgrapher-invoice.html\">click here</a>. Any questions please <a href=\"https://info.grapher.nz/contact.html\">contact me</a>.</p>\n<p class=\"align-left\" dir=\"ltr\"><strong>One Off Donation or Custom Monthly Amount </strong></p>\n<form style=\"display: inline-block; margin-right: 30px;\" action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_blank\"><input name=\"cmd\" type=\"hidden\" value=\"_s-xclick\"> <input name=\"hosted_button_id\" type=\"hidden\" value=\"VZ2MNV3YGV5QL\"> <input alt=\"PayPal - The safer, easier way to pay online!\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif\" type=\"image\"> <img loading=\"lazy\" style=\"display: none !important;\" hidden=\"\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" data-is-external-image=\"true\"  alt=\"\" width=\"1\" height=\"1\" border=\"0\"></form>\n<p class=\"align-left\" dir=\"ltr\"><strong>Monthly Donation </strong></p>\n<form style=\"display: inline-block;\" action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_blank\"><input name=\"cmd\" type=\"hidden\" value=\"_s-xclick\"> <input name=\"hosted_button_id\" type=\"hidden\" value=\"8GLP5UV6V4RWS\"> <input name=\"on0\" type=\"hidden\" value=\"\"><select style=\"margin-bottom: 10px;\" name=\"os0\">\n<option value=\"$5 Per Month\">$5 Per Month : $5.00 NZD - monthly</option>\n<option value=\"$10 Per Month\">$10 Per Month : $10.00 NZD - monthly</option>\n<option value=\"$20 Per Month\">$20 Per Month : $20.00 NZD - monthly</option>\n</select><input name=\"currency_code\" type=\"hidden\" value=\"NZD\"><br><input alt=\"PayPal - The safer, easier way to pay online!\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_subscribeCC_LG.gif\" type=\"image\"> <img loading=\"lazy\" style=\"display: none !important;\" hidden=\"\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" data-is-external-image=\"true\"  alt=\"\" width=\"1\" height=\"1\" border=\"0\"></form>",
+            "author": {
+                "name": "Jake Wills"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-06-02T19:07:42+12:00",
+            "date_modified": "2022-06-02T19:13:26+12:00"
+        },
+        {
             "id": "https://info.grapher.nz/teaching-tools.html",
             "url": "https://info.grapher.nz/teaching-tools.html",
             "title": "Teaching Tools",
@@ -105,20 +147,6 @@
             ],
             "date_published": "2022-06-01T19:36:28+12:00",
             "date_modified": "2022-06-01T20:26:33+12:00"
-        },
-        {
-            "id": "https://info.grapher.nz/ncea-info.html",
-            "url": "https://info.grapher.nz/ncea-info.html",
-            "title": "NCEA Info",
-            "summary": "This page has links to all the info on the different NCEA Standards, including links to NZQA for the standard,&hellip;",
-            "content_html": "<section id=\"h.p_P4CfDJSy5GaO\" class=\"yaqOZd\">\n<div class=\"mYVXT\">\n<div class=\"LS81yb VICjCf\" tabindex=\"-1\">\n<div class=\"hJDwNd-AhqUyc-uQSCkd purZT-AhqUyc-II5mzb pSzOP-AhqUyc-qWD73c JNdkSc\">\n<div class=\"JNdkSc-SmKAyb\">\n<div class=\"\">\n<div class=\"oKdM2c Kzv0Me\">\n<div id=\"h.p_OSZCsVv_5GaJ\" class=\"hJDwNd-AhqUyc-uQSCkd jXK9ad D2fZ2 OjCsFc wHaque GNzUNc\">\n<div class=\"jXK9ad-SmKAyb\">\n<div class=\"tyJCtd mGzaTb baZpAe\">\n<p id=\"h.p_1t0cfzbk5GaN\" class=\"CDt4Ke zfr3Q\">This page has links to all the info on the different NCEA Standards, including links to NZQA for the standard, clarifications, and exemplars; and to TKI for the conditions of assessment and senior secondary achievement objectives. If you are looking for old exemplars <a class=\"dhtgD aw5Odc\" href=\"https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fview%2Fexemplararchive%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNG5-xtS68oU11cABN_dS1Y7My3lkQ\" target=\"_blank\" rel=\"noopener\">Jamie Sneddon's site</a> is where to go.</p>\n<p>Looking for info on the New Standards? Go to <a href=\"https://ncea.education.govt.nz/\">ncea.education.govt.nz</a></p>\n<ul>\n<li><a href=\"https://info.grapher.nz/ncea-level-1.html\">NCEA Level 1</a></li>\n<li><a href=\"https://info.grapher.nz/ncea-level-2.html\">NCEA Level 2</a></li>\n<li><a href=\"https://info.grapher.nz/ncea-level-3.html\">NCEA Level 3</a></li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</section>\n<section id=\"h.p_ra_fS-_-aD7S\" class=\"yaqOZd\"></section>",
-            "author": {
-                "name": "Jake Wills"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-06-01T19:35:14+12:00",
-            "date_modified": "2022-06-01T20:31:37+12:00"
         }
     ]
 }
