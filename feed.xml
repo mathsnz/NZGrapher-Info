@@ -3,7 +3,7 @@
     <title>NZGrapher Support</title>
     <link href="https://info.grapher.nz/feed.xml" rel="self" />
     <link href="https://info.grapher.nz" />
-    <updated>2022-06-02T19:13:26+12:00</updated>
+    <updated>2022-06-02T19:47:04+12:00</updated>
     <author>
         <name>Jake Wills</name>
     </author>
@@ -17,10 +17,10 @@
         <link href="https://info.grapher.nz/nzgrapher-invoice.html"/>
         <id>https://info.grapher.nz/nzgrapher-invoice.html</id>
 
-        <updated>2022-06-02T19:13:10+12:00</updated>
+        <updated>2022-06-02T19:47:04+12:00</updated>
             <summary>
                 <![CDATA[
-                    The form below allows you to create an invoice that you can pass onto your school for the use of&hellip;
+                    The form below allows you to create an invoice that you can pass onto your school for the use of NZGrapher. Once you press the&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -28,7 +28,7 @@
                 <p id="h.p_LFsc8mQl5sKQ" class="CDt4Ke zfr3Q">The form below allows you to create an invoice that you can pass onto your school for the use of NZGrapher. Once you press the "make invoice" button you can download the PDF and send it through to your accounts people to pay... you need to download it and not just send the link. Just sending the link will just send a blank invoice.</p>
 <p id="h.p__tsyu3Ad5yz4" class="CDt4Ke zfr3Q">Any questions please <a class="dhtgD aw5Odc" href="https://www.mathsnz.com/contact">contact me</a>.</p>
 <p class="align-right"><small id="h.p_sbWv83WwfQcW" class="CDt4Ke zfr3Q TMjjoe"><em>Form not showing below? <a class="dhtgD aw5Odc" href="https://www.google.com/url?q=https%3A%2F%2Fserver.mathsnz.com%2Finvoicecreator.php&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3meEOFPQp73fwV9TcFH7uy" target="_blank" rel="noopener">Click here</a>.</em></small></p>
-<div class="post__iframe"><iframe loading="lazy" style="width: 100%; height: 600px; border: none;" src="https://server.mathsnz.com/invoicecreator.php"></iframe></div>
+<div class="123"><div class="post__iframe"><iframe loading="lazy" style="width: 100%; border: 0;" src="https://server.mathsnz.com/invoicecreator.php"></iframe></div></div>
             ]]>
         </content>
     </entry>
@@ -43,7 +43,7 @@
         <updated>2022-06-02T19:10:27+12:00</updated>
             <summary>
                 <![CDATA[
-                    The best way to get in touch is via email. If you want to have a phone conversation, send me&hellip;
+                    The best way to get in touch is via email. If you want to have a phone conversation, send me an email and we can&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -65,7 +65,7 @@
         <updated>2022-06-02T19:13:26+12:00</updated>
             <summary>
                 <![CDATA[
-                    Thank you to all the schools and individuals who have supported me so far, your donations have been appreciated and&hellip;
+                    Thank you to all the schools and individuals who have supported me so far, your donations have been appreciated and enable me to continue to&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -94,7 +94,11 @@
         <id>https://info.grapher.nz/teaching-tools.html</id>
 
         <updated>2022-06-02T09:37:26+12:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                    Bootstrapping Re-Randomisation Sampling Variability
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                 <div class="post__toc">
@@ -158,7 +162,7 @@
         <updated>2022-06-02T09:22:48+12:00</updated>
             <summary>
                 <![CDATA[
-                    This is a list of what all the variables are and where the dataset is from for the built in&hellip;
+                    This is a list of what all the variables are and where the dataset is from for the built in datasets on NZGrapher. You can&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -1324,7 +1328,7 @@
         <updated>2022-06-01T20:31:05+12:00</updated>
             <summary>
                 <![CDATA[
-                    91573 - 3.1 - Apply the geometry of conic sections in solving problems - 3 Credits - Internal 91574 -&hellip;
+                    91573 - 3.1 - Apply the geometry of conic sections in solving problems - 3 Credits - Internal 91574 - 3.2 - Apply linear programming&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -1445,7 +1449,7 @@
         <updated>2022-06-01T20:31:14+12:00</updated>
             <summary>
                 <![CDATA[
-                    91256 - 2.1 - Apply co-ordinate geometry methods in solving problems - 2 credits - Internal 91257 - 2.2 -&hellip;
+                    91256 - 2.1 - Apply co-ordinate geometry methods in solving problems - 2 credits - Internal 91257 - 2.2 - Apply graphical methods in solving&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -1567,7 +1571,7 @@
         <updated>2022-06-02T09:38:06+12:00</updated>
             <summary>
                 <![CDATA[
-                    NZGrapher is an online graphing tool specifically designed for supporting the teaching of the statistics in New Zealand. The idea&hellip;
+                    NZGrapher is an online graphing tool specifically designed for supporting the teaching of the statistics in New Zealand. The idea behind NZGrapher was to create&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -1624,7 +1628,7 @@
         <updated>2022-06-01T20:26:33+12:00</updated>
             <summary>
                 <![CDATA[
-                    91026 - 1.1 - Apply numeric reasoning in solving problems 4 credits - Internal 4 credits - External 4 credits&hellip;
+                    91026 - 1.1 - Apply numeric reasoning in solving problems 4 credits - Internal 4 credits - External 4 credits - External 3 credits -&hellip;
                 ]]>
             </summary>
         <content type="html">
