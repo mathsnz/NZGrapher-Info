@@ -3,7 +3,7 @@
     <title>NZGrapher Support</title>
     <link href="https://info.grapher.nz/feed.xml" rel="self" />
     <link href="https://info.grapher.nz" />
-    <updated>2022-08-15T11:33:24+12:00</updated>
+    <updated>2022-08-15T12:53:25+12:00</updated>
     <author>
         <name>Jake Wills</name>
     </author>
@@ -14,8 +14,8 @@
         <author>
             <name>Jake Wills</name>
         </author>
-        <link href="https://info.grapher.nz/nzgrapher-invoice.html"/>
-        <id>https://info.grapher.nz/nzgrapher-invoice.html</id>
+        <link href="https://info.grapher.nz/nzgrapher-invoice/"/>
+        <id>https://info.grapher.nz/nzgrapher-invoice/</id>
 
         <updated>2022-06-02T19:47:04+12:00</updated>
             <summary>
@@ -37,8 +37,8 @@
         <author>
             <name>Jake Wills</name>
         </author>
-        <link href="https://info.grapher.nz/contact.html"/>
-        <id>https://info.grapher.nz/contact.html</id>
+        <link href="https://info.grapher.nz/contact/"/>
+        <id>https://info.grapher.nz/contact/</id>
 
         <updated>2022-06-02T19:10:27+12:00</updated>
             <summary>
@@ -59,8 +59,8 @@
         <author>
             <name>Jake Wills</name>
         </author>
-        <link href="https://info.grapher.nz/donate.html"/>
-        <id>https://info.grapher.nz/donate.html</id>
+        <link href="https://info.grapher.nz/donate/"/>
+        <id>https://info.grapher.nz/donate/</id>
 
         <updated>2022-06-02T19:13:26+12:00</updated>
             <summary>
@@ -73,7 +73,7 @@
                 <p id="h.p_pTlNpMke4Kuz" class="CDt4Ke zfr3Q">Thank you to all the schools and individuals who have supported me so far, your donations have been appreciated and enable me to continue to pay for the resources I need to develop this site.</p>
 <p id="h.p_Dtu7FM3s4K9D" class="CDt4Ke zfr3Q">If you would like to make a donation, big or small, you can donate using either of the buttons below.</p>
 <p id="h.p_RPDioSoD4wsh" class="CDt4Ke zfr3Q">These buttons use PayPal... but even if you don't have a PayPal account you can still use these buttons and use your credit card.</p>
-<p id="h.p_SVknEIx45dMJ" class="CDt4Ke zfr3Q">If you need an invoice please <a href="https://info.grapher.nz/nzgrapher-invoice.html">click here</a>. Any questions please <a href="https://info.grapher.nz/contact.html">contact me</a>.</p>
+<p id="h.p_SVknEIx45dMJ" class="CDt4Ke zfr3Q">If you need an invoice please <a href="https://info.grapher.nz/nzgrapher-invoice/">click here</a>. Any questions please <a href="https://info.grapher.nz/contact/">contact me</a>.</p>
 <p class="align-left" dir="ltr"><strong>One Off Donation or Custom Monthly Amount </strong></p>
 <form style="display: inline-block; margin-right: 30px;" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank"><input name="cmd" type="hidden" value="_s-xclick"> <input name="hosted_button_id" type="hidden" value="VZ2MNV3YGV5QL"> <input alt="PayPal - The safer, easier way to pay online!" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" type="image"> <img loading="lazy" style="display: none !important;" hidden="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" data-is-external-image="true"  alt="" width="1" height="1" border="0"></form>
 <p class="align-left" dir="ltr"><strong>Monthly Donation </strong></p>
@@ -90,8 +90,8 @@
         <author>
             <name>Jake Wills</name>
         </author>
-        <link href="https://info.grapher.nz/teaching-tools.html"/>
-        <id>https://info.grapher.nz/teaching-tools.html</id>
+        <link href="https://info.grapher.nz/teaching-tools/"/>
+        <id>https://info.grapher.nz/teaching-tools/</id>
 
         <updated>2022-06-02T09:37:26+12:00</updated>
             <summary>
@@ -140,8 +140,8 @@
         <author>
             <name>Jake Wills</name>
         </author>
-        <link href="https://info.grapher.nz/nzgrapher-usage.html"/>
-        <id>https://info.grapher.nz/nzgrapher-usage.html</id>
+        <link href="https://info.grapher.nz/nzgrapher-usage/"/>
+        <id>https://info.grapher.nz/nzgrapher-usage/</id>
 
         <updated>2022-06-02T09:26:49+12:00</updated>
             <summary></summary>
@@ -156,8 +156,8 @@
         <author>
             <name>Jake Wills</name>
         </author>
-        <link href="https://info.grapher.nz/dataset-info.html"/>
-        <id>https://info.grapher.nz/dataset-info.html</id>
+        <link href="https://info.grapher.nz/dataset-info/"/>
+        <id>https://info.grapher.nz/dataset-info/</id>
 
         <updated>2022-06-02T09:22:48+12:00</updated>
             <summary>
@@ -1322,8 +1322,8 @@
         <author>
             <name>Jake Wills</name>
         </author>
-        <link href="https://info.grapher.nz/ncea-level-3.html"/>
-        <id>https://info.grapher.nz/ncea-level-3.html</id>
+        <link href="https://info.grapher.nz/ncea-level-3/"/>
+        <id>https://info.grapher.nz/ncea-level-3/</id>
 
         <updated>2022-08-15T11:33:24+12:00</updated>
             <summary>
@@ -1443,8 +1443,8 @@
         <author>
             <name>Jake Wills</name>
         </author>
-        <link href="https://info.grapher.nz/ncea-level-2.html"/>
-        <id>https://info.grapher.nz/ncea-level-2.html</id>
+        <link href="https://info.grapher.nz/ncea-level-2/"/>
+        <id>https://info.grapher.nz/ncea-level-2/</id>
 
         <updated>2022-08-15T11:32:42+12:00</updated>
             <summary>
@@ -1565,10 +1565,10 @@
         <author>
             <name>Jake Wills</name>
         </author>
-        <link href="https://info.grapher.nz/nzgrapher.html"/>
-        <id>https://info.grapher.nz/nzgrapher.html</id>
+        <link href="https://info.grapher.nz/nzgrapher/"/>
+        <id>https://info.grapher.nz/nzgrapher/</id>
 
-        <updated>2022-08-15T11:05:57+12:00</updated>
+        <updated>2022-08-15T12:53:25+12:00</updated>
             <summary>
                 <![CDATA[
                     NZGrapher is an online graphing tool specifically designed for supporting the teaching of the statistics in New Zealand. The idea behind NZGrapher was to create&hellip;
@@ -1577,25 +1577,25 @@
         <content type="html">
             <![CDATA[
                 <p dir="ltr"><span class=" aw5Odc"><a href="https://www.grapher.nz" target="_blank" rel="noopener noreferrer">NZGrapher</a></span> is an online graphing tool specifically designed for supporting the teaching of the statistics in New Zealand. The idea behind <span class=" aw5Odc"><a href="https://www.grapher.nz" target="_blank" rel="noopener noreferrer">NZGrapher</a></span> was to create a web based statistical package that can run on <strong>any device</strong>, without an install. </p>
-<p dir="ltr">This Site contains supporting material for <span class=" aw5Odc"><a href="https://www.grapher.nz">NZGrapher</a></span> as well as <span class=" aw5Odc"><a href="https://info.grapher.nz/ncea-info.html">links to the NZQA and TKI websites to help find the info for NCEA easily</a></span>. To see the old materials that used to be on here go to <span class=" aw5Odc"><a href="https://old.mathsnz.com" target="_blank" rel="noopener noreferrer">https://old.mathsnz.com</a></span> and <span class=" aw5Odc"><a href="https://students.mathsnz.com" target="_blank" rel="noopener noreferrer">https://students.mathsnz.com</a></span>. The resources there are no longer being maintained, but are provided as is, where is, if anyone still does want to use them.</p>
+<p dir="ltr">This Site contains supporting material for <span class=" aw5Odc"><a href="https://www.grapher.nz">NZGrapher</a></span> as well as <span class=" aw5Odc"><a href="https://info.grapher.nz/ncea-info/">links to the NZQA and TKI websites to help find the info for NCEA easily</a></span>. To see the old materials that used to be on here go to <span class=" aw5Odc"><a href="https://old.mathsnz.com" target="_blank" rel="noopener noreferrer">https://old.mathsnz.com</a></span> and <span class=" aw5Odc"><a href="https://students.mathsnz.com" target="_blank" rel="noopener noreferrer">https://students.mathsnz.com</a></span>. The resources there are no longer being maintained, but are provided as is, where is, if anyone still does want to use them.</p>
 <ul>
 <li dir="ltr">NZGrapher Support
 <ul>
 <li dir="ltr">Video Tutorials</li>
-<li dir="ltr"><a href="https://info.grapher.nz/teaching-tools.html">Teaching Tools</a></li>
-<li dir="ltr"><a href="https://info.grapher.nz/dataset-info.html">Dataset Information</a></li>
+<li dir="ltr"><a href="https://info.grapher.nz/teaching-tools/">Teaching Tools</a></li>
+<li dir="ltr"><a href="https://info.grapher.nz/dataset-info/">Dataset Information</a></li>
 <li dir="ltr">Graph Information</li>
 <li dir="ltr">Function Information</li>
 <li dir="ltr">School Folders</li>
-<li dir="ltr"><a href="https://info.grapher.nz/nzgrapher-usage.html">NZGrapher Usage Statistics</a></li>
-<li dir="ltr"><a href="https://info.grapher.nz/nzgrapher-invoice.html">Invoice Creator</a></li>
+<li dir="ltr"><a href="https://info.grapher.nz/nzgrapher-usage/">NZGrapher Usage Statistics</a></li>
+<li dir="ltr"><a href="https://info.grapher.nz/nzgrapher-invoice/">Invoice Creator</a></li>
 </ul>
 </li>
-<li dir="ltr"><a href="https://info.grapher.nz/ncea-info.html">NCEA Info</a>
+<li dir="ltr"><a href="https://info.grapher.nz/ncea-info/">NCEA Info</a>
 <ul>
-<li dir="ltr"><a href="https://info.grapher.nz/ncea-level-1.html">Level 1</a></li>
-<li dir="ltr"><a href="https://info.grapher.nz/ncea-level-2.html">Level 2</a></li>
-<li dir="ltr"><a href="https://info.grapher.nz/ncea-level-3.html">Level 3</a></li>
+<li dir="ltr"><a href="https://info.grapher.nz/ncea-level-1/">Level 1</a></li>
+<li dir="ltr"><a href="https://info.grapher.nz/ncea-level-2/">Level 2</a></li>
+<li dir="ltr"><a href="https://info.grapher.nz/ncea-level-3/">Level 3</a></li>
 </ul>
 </li>
 </ul>
@@ -1603,7 +1603,7 @@
 <p class="CDt4Ke zfr3Q" dir="ltr">If you see any errors on this site please <span class=" aw5Odc"><a href="mailto:jwills@mathsnz.com" target="_blank" rel="noopener noreferrer">let me know</a></span>.</p>
 <h6 class="CDt4Ke zfr3Q" dir="ltr"><strong>Things I get asked frequently:</strong></h6>
 <ul>
-<li class="CDt4Ke zfr3Q" dir="ltr"><span class=" aw5Odc">Do you have info on the datasets on NZGrapher?</span></li>
+<li class="CDt4Ke zfr3Q" dir="ltr"><span class=" aw5Odc"><a href="https://info.grapher.nz/dataset-info/">Do you have info on the datasets on NZGrapher?</a></span></li>
 <li class="CDt4Ke zfr3Q" dir="ltr"><span class=" aw5Odc"><a class="XqQF9c" href="https://drive.google.com/open?id=1AdjCv38CeTzo-TEtlJ0qe04ei9KF2Rut" target="_blank" rel="noopener">How does NZGrapher produce its time series graphs?</a></span></li>
 <li class="CDt4Ke zfr3Q" dir="ltr"><span class=" aw5Odc"><a class="XqQF9c" href="https://drive.google.com/open?id=1ajcMPM7jN8G5o4xQ2STcvDalM8vMaIes" target="_blank" rel="noopener">Why does residuals plots have 'fitted' on the x axis?</a></span></li>
 <li class="CDt4Ke zfr3Q" dir="ltr"><span class=" aw5Odc"><a href="https://drive.google.com/file/d/1rxXrJH46sjfiPH7TBwjgeeEG-oeXzsOc/view?usp=sharing" target="_blank" rel="noopener noreferrer">What effect does sample size have on bootstrapping?</a></span></li>
@@ -1622,8 +1622,8 @@
         <author>
             <name>Jake Wills</name>
         </author>
-        <link href="https://info.grapher.nz/ncea-level-1.html"/>
-        <id>https://info.grapher.nz/ncea-level-1.html</id>
+        <link href="https://info.grapher.nz/ncea-level-1/"/>
+        <id>https://info.grapher.nz/ncea-level-1/</id>
 
         <updated>2022-06-01T20:26:33+12:00</updated>
             <summary>
