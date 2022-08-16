@@ -3,7 +3,7 @@
     <title>NZGrapher Support</title>
     <link href="https://info.grapher.nz/feed.xml" rel="self" />
     <link href="https://info.grapher.nz" />
-    <updated>2022-08-15T13:34:51+12:00</updated>
+    <updated>2022-08-17T10:34:34+12:00</updated>
     <author>
         <name>Jake Wills</name>
     </author>
@@ -17,15 +17,15 @@
         <link href="https://info.grapher.nz/function-information/"/>
         <id>https://info.grapher.nz/function-information/</id>
 
-        <updated>2022-08-15T13:09:28+12:00</updated>
+        <updated>2022-08-17T10:34:34+12:00</updated>
             <summary>
                 <![CDATA[
-                    Please note: this page is still under development This menu area is about importing data into, and exporting data out of NZGrapher. This allows you&hellip;
+                    This page has details on all of the menu items on NZGrapher. This menu area is about importing data into, and exporting data out of&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Please note: this page is still under development</p>
+                <p>This page has details on all of the menu items on NZGrapher.</p>
 <div class="post__toc">
 <h3>Table of Contents</h3>
 <ul>
@@ -111,49 +111,144 @@
 <h3 id="mcetoc_1gafgjukqm7"><strong>Open Link</strong></h3>
 <p><span style="font-weight: 400;">This allows you to link to a csv file that is hosted on the internet.</span></p>
 <h3 id="mcetoc_1gafgjukqm8"><strong>Select and Copy Data Table</strong></h3>
+<p>This highlights the data table and copies it to the clipboard. Useful if you want to take the data out into a report or a spreadsheet.</p>
 <h3 id="mcetoc_1gafgjukqm9"><strong>Download Data</strong></h3>
+<p>This downloads a copy of the data as a .csv</p>
 <h3 id="mcetoc_1gafgjukqma"><strong>Save Session</strong></h3>
+<p>This downloads a copy of the data as well as all of the current settings as a .nzgrapher file. When you upload a .nzgrapher file it not only loads the data, but all the graph settings and displays that you had set up.</p>
 <h3 id="mcetoc_1gafgjukqmb"><strong>Save Current State for Reset</strong></h3>
+<p>This sets the data in its current state as the "default" dataset, so when you press "reset" it resets back to this point.</p>
 <h3 id="mcetoc_1gafgjukqmc"><strong>Reset</strong></h3>
+<p>This resets the data back to it's original state or back to where it was last time you pressed "Save Current State for Reset".</p>
 <h2 id="mcetoc_1gafgjukqmd"><strong>Row</strong></h2>
 <h3 id="mcetoc_1gafgjukqme"><strong>Add Row</strong></h3>
+<p>This adds a new row to the bottom of the dataset.</p>
 <h3 id="mcetoc_1gafgjukqmf"><strong>Delete Last Row</strong></h3>
+<p>This removes the last row from the dataset.</p>
 <h3 id="mcetoc_1gafgjukqmg"><strong>Delete Specific Row</strong></h3>
+<p>This deletes a specific row from the dataset (useful for removing outliers) by the point ID as shown on the left of the dataset.</p>
 <h2 id="mcetoc_1gafgjukqmh"><strong>Column</strong></h2>
 <h3 id="mcetoc_1gafgjukqmi"><strong>Add Column</strong></h3>
+<p>Adds a column to the right of the dataset.</p>
 <h3 id="mcetoc_1gafgjukqmj"><strong>Delete Last Column</strong></h3>
+<p>Deletes the rightmost column.</p>
 <h3 id="mcetoc_1gafgjukqmk"><strong>Delete Specific Column</strong></h3>
+<p>Deletes a specific column.</p>
 <h2 id="mcetoc_1gafgjukqml"><strong>Sample and More</strong></h2>
 <h3 id="mcetoc_1gafgjukqmm"><strong>Sample</strong></h3>
+<p id="h.p_FldXwDIqunmS" class="CDt4Ke zfr3Q">Allows you to do either simple random samples, or stratified random samples.</p>
+<p id="h.p_lNkPwPeGu0_J" class="CDt4Ke zfr3Q">This is also useful if you want to remove a particular section of the data... for example in the kiwi data set if you just wanted to look at GS and NiBr, you would set these to 163 and 275 respectively, and leave all the others blank and press sample.</p>
 <h3 id="mcetoc_1gafgjukqmn"><strong>Sort</strong></h3>
+<p id="h.p_WlZ32hggusy7" class="CDt4Ke zfr3Q">Sorts the data table by a particular variable. This doesn't affect displays.</p>
+<h2 id="h.p_WgLJY2RBumid_l" class="CDt4Ke zfr3Q JYVBee" tabindex="-1"></h2>
 <h3 id="mcetoc_1gafgjukqmo"><strong>Reorder Variable</strong></h3>
+<p id="h.p_fdx8c0oWvyA8" class="CDt4Ke zfr3Q">Allows you to prepend text (add to the start of) to a variable.</p>
+<p id="h.p_KyZ6y1Etv24e" class="CDt4Ke zfr3Q">For example if you had a variable with values "N", "A", "M" and "E" and you wanted them to display in this order, you would put 1, 2, 3, 4 next to these respectively, and then it would graph in that order.</p>
 <h3 id="mcetoc_1gafgjukqmp"><strong>Create New Variable (From 2 Variables)</strong></h3>
+<p id="h.p_GKeFM2TBwBb9" class="CDt4Ke zfr3Q">Allows you to add, subtract, multiply or divide two variables.</p>
+<h2 id="h.p_3g-myra1umif_l" class="CDt4Ke zfr3Q JYVBee" tabindex="-1"></h2>
 <h3 id="mcetoc_1gafgjukqmq"><strong>Create New Variable (Linear Function)</strong></h3>
+<p id="h.p_KBfDhb7awFe1" class="CDt4Ke zfr3Q">Allows you to create a new variable with an equation of y = m*x + c where x is one of the columns in the existing data set.</p>
+<h2 id="h.p_mk5v3lSsumif_l" class="CDt4Ke zfr3Q JYVBee" tabindex="-1"></h2>
+<h2 id="h.p_mk5v3lSsumif_l" class="CDt4Ke zfr3Q JYVBee" tabindex="-1"></h2>
 <h3 id="mcetoc_1gafgjukqmr"><strong>Create New Variable (Custom Function)</strong></h3>
+<p id="h.p_omswRRYuwV7M" class="CDt4Ke zfr3Q">This allows you to create a new variable by putting in an algebraic function with x in in eg "1/x^2+3" and it will create a new variable from that function.</p>
+<h2 id="h.p_ujHxW7aSumig_l" class="CDt4Ke zfr3Q JYVBee" tabindex="-1"></h2>
 <h3 id="mcetoc_1gafgjukqms"><strong>Create New Variable (From Condition)</strong></h3>
+<p id="h.p_omswRRYuwV7M" class="CDt4Ke zfr3Q">Allows you to create "Low" or "High" variables. Conditions can be &lt;, ≤, =, ≥, and &gt;.</p>
+<h2 id="h.p_ujHxW7aSumig_l" class="CDt4Ke zfr3Q JYVBee" tabindex="-1"></h2>
+<h2 id="h.p_eIudz5fSumih_l" class="CDt4Ke zfr3Q JYVBee" tabindex="-1"></h2>
 <h3 id="mcetoc_1gafgjukqmt"><strong>Create New Variable (Re-Group)</strong></h3>
+<p id="h.p_cfR8BIYJw0Cp" class="CDt4Ke zfr3Q">Allows you to regroup variables, for example if a variable has 5 groups, you can assign each group to a master group, so you have less overall groups.</p>
+<h2 id="h.p_eIudz5fSumih_l" class="CDt4Ke zfr3Q JYVBee" tabindex="-1"></h2>
+<h2 id="h.p_F9B0YiPvumih_l" class="CDt4Ke zfr3Q JYVBee" tabindex="-1"></h2>
 <h3 id="mcetoc_1gafgjukqmu"><strong>Create New Variable (Average)</strong></h3>
+<p id="h.p_Msz7wW9Hw8Kj" class="CDt4Ke zfr3Q">Creates a new variable by averaging columns.</p>
+<h2 id="h.p_n6EqLxvSumii_l" class="CDt4Ke zfr3Q JYVBee" tabindex="-1"></h2>
 <h3 id="mcetoc_1gafgjukqmv"><strong>Filter Data</strong></h3>
+<p id="h.p_Jjr-NeT4wdVs" class="CDt4Ke zfr3Q">Allows you to filter out numerical data, for example, only look at kiwis that weigh over 2kg.</p>
+<h2 id="h.p_F9B0YiPvumih_l" class="CDt4Ke zfr3Q JYVBee" tabindex="-1"></h2>
 <h3 id="mcetoc_1gafgjukqn0"><strong>Add Graphable Index Column</strong></h3>
+<p>Adds a column to the start of the data that is just the id / index of the point.</p>
 <h3 id="mcetoc_1gafgjukqn1"><strong>Convert Time Column</strong></h3>
+<p id="h.p_aBDtiVAExSwy" class="CDt4Ke zfr3Q">Takes standard date / time fields and converts them to Seconds, Minutes, Hours or Days for graphing in scatter graphs or dot plots.</p>
+<h2 id="h.p_uFVGAN2Dumij_l" class="CDt4Ke zfr3Q JYVBee" tabindex="-1"></h2>
 <h3 id="mcetoc_1gafgjukqn2"><strong>Encode Time Column</strong></h3>
+<section id="h.p_AKT5VLuiukuY" class="yaqOZd">
+<div class="mYVXT">
+<div class="LS81yb VICjCf j5pSsc db35Fc" tabindex="-1">
+<div class="hJDwNd-AhqUyc-uQSCkd Ft7HRd-AhqUyc-uQSCkd purZT-AhqUyc-II5mzb ZcASvf-AhqUyc-II5mzb pSzOP-AhqUyc-qWD73c Ktthjf-AhqUyc-qWD73c JNdkSc SQVYQc yYI8W HQwdzb">
+<div class="JNdkSc-SmKAyb LkDMRd">
+<div class="qUO6Ue">
+<div class="oKdM2c ZZyype">
+<div id="h.p_t4dwqk7dukui" class="hJDwNd-AhqUyc-uQSCkd Ft7HRd-AhqUyc-uQSCkd jXK9ad D2fZ2 zu5uec wHaque g5GTcb GNzUNc">
+<div class="jXK9ad-SmKAyb">
+<div class="tyJCtd mGzaTb Depvyb baZpAe">
+<p id="h.p_Pr13jWXYxcKa" class="CDt4Ke zfr3Q">Encodes standard date / time fields into formats for use with the NZGrapher time series modules (eg: 2000M01)</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="h.p_GJhjWcayxo0c" class="yaqOZd"></section>
 <h3 id="mcetoc_1gafgjukqn3"><strong>Axis Options</strong></h3>
+<p>Allows you to fix some of the axis start and end points as well as some other random settings.</p>
 <h3 id="mcetoc_1gafgjukqn4"><strong>Advanced Tools</strong></h3>
+<p>Explains how to open up the menu on the right / bottom to show some of the extra tools in there.</p>
 <h2 id="mcetoc_1gafgjukqn5"><strong>Teaching Tools</strong></h2>
+<p>For each of the teaching tools the best way to understand them is to watch the <a href="https://info.grapher.nz/teaching-tools/">video tutorials</a>.</p>
 <h3 id="mcetoc_1gafgjukqn6"><strong>Bootstrapping</strong></h3>
+<p>This is for teaching how bootstrapping works.</p>
 <h3 id="mcetoc_1gafgjukqn7"><strong>Re-Randomisation</strong></h3>
+<p>This is for teaching what re-randomisation does.</p>
 <h3 id="mcetoc_1gafgjukqn8"><strong>Sampling Variability</strong></h3>
+<p>This is for teaching the effects of sampling and the variability of sampling.</p>
 <h3 id="mcetoc_1gafgjukqn9"><strong>Video Tutorials</strong></h3>
-<p> </p>
+<p>Takes you to this website with video tutorials on how to use the teaching tools.</p>
 <h2 id="mcetoc_1gafgjukqna"><strong>Save Changes</strong></h2>
+<p id="h.p_lABh2TtBxtzn" class="CDt4Ke zfr3Q">Updates any manual changes you have made to the dataset to the graph and selection boxes at the bottom of the page.</p>
+<section id="h.p_A_IkzKKHxtzN" class="yaqOZd">
+<div class="mYVXT">
+<div class="LS81yb VICjCf j5pSsc db35Fc" tabindex="-1">
+<div class="hJDwNd-AhqUyc-uQSCkd Ft7HRd-AhqUyc-uQSCkd purZT-AhqUyc-II5mzb ZcASvf-AhqUyc-II5mzb pSzOP-AhqUyc-qWD73c Ktthjf-AhqUyc-qWD73c JNdkSc SQVYQc yYI8W HQwdzb">
+<div class="JNdkSc-SmKAyb LkDMRd">
+<div class="qUO6Ue">
+<div class="oKdM2c ZZyype">
+<div id="h.p_fnYK_Wxcxtzk" class="hJDwNd-AhqUyc-uQSCkd Ft7HRd-AhqUyc-uQSCkd jXK9ad D2fZ2 zu5uec wHaque g5GTcb GNzUNc">
+<div class="jXK9ad-SmKAyb">
+<div class="tyJCtd mGzaTb Depvyb baZpAe">
+<p id="h.p_7CqBlv34x3Ey" class="CDt4Ke zfr3Q">Note: this doesn't permanently change the dataset saved on the server, it only saves changes while you are on the page.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="h.p_pmY0JWosx_1z" class="yaqOZd"></section>
 <h2 id="mcetoc_1gafgjukqnb"><strong>Display Explorer</strong></h2>
+<p>Launches the display explorer which brings up a series of displays that you can make with the selected variables.</p>
 <h2 id="mcetoc_1gafgjukqnc"><strong>Help</strong></h2>
 <h3 id="mcetoc_1gafgjukqnd"><strong>Video Tutorials</strong></h3>
+<p>Takes you to this website with video tutorials on NZGrapher.</p>
 <h3 id="mcetoc_1gafgjukqne"><strong>Graph Information</strong></h3>
+<p>Takes you to this website with information on the different graphs NZGrapher can draw.</p>
 <h3 id="mcetoc_1gafgjukqnf"><strong>Function Information</strong></h3>
+<p>Takes you to this page.</p>
 <h3 id="mcetoc_1gafgjukqng"><strong>Dataset Information</strong></h3>
+<p>Takes you to this website with information on the datasets pre-built into NZGrapher.</p>
 <h3 id="mcetoc_1gafgjukqnh"><strong>Show Welcome</strong></h3>
+<p>Shows the welcome splash screen with general info about NZGrapher.</p>
 <h3 id="mcetoc_1gafgjukqni"><strong>Show Overlay</strong></h3>
+<p>Shows an overlay with pointers about what each of the areas of the interface do.</p>
             ]]>
         </content>
     </entry>
@@ -165,10 +260,10 @@
         <link href="https://info.grapher.nz/graph-information/"/>
         <id>https://info.grapher.nz/graph-information/</id>
 
-        <updated>2022-08-15T13:12:22+12:00</updated>
+        <updated>2022-08-15T19:59:14+12:00</updated>
             <summary>
                 <![CDATA[
-                    Please note: this page is still under development About Pairs Plot Dot Plot (and Box and Whisker) Bar Graph Bar Graph - Summary Data Histogram&hellip;
+                    Please note: this page is still under development This shows the info page about NZGrapher in the graph window (it's not really a graph). This&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -205,7 +300,9 @@
 </ul>
 </div>
 <h2 id="mcetoc_1gafgu27q121">About</h2>
+<p>This shows the info page about NZGrapher in the graph window (it's not really a graph).</p>
 <h2 id="mcetoc_1gafgu27q122">Pairs Plot</h2>
+<p>This graph gives a quick overview of all the variables in the dataset. Note: it will not work if the first data point has any missing values.</p>
 <h2 id="mcetoc_1gafgu27q123">Dot Plot (and Box and Whisker)</h2>
 <h2 id="mcetoc_1gafgu27q124">Bar Graph</h2>
 <h2 id="mcetoc_1gafgu27q125">Bar Graph - Summary Data</h2>
@@ -225,7 +322,9 @@
 <h3 id="mcetoc_1gafgu27q12j">Seasonal Effects</h3>
 <h3 id="mcetoc_1gafgu27q12k">Forecasts</h3>
 <h2 id="mcetoc_1gafgu27q12l">Change Log</h2>
+<p>This allows you to see a list of all the changes that have been made to NZGrapher.</p>
 <h2 id="mcetoc_1gafgu27q12m">Update</h2>
+<p>This allows schools that are hosting themselves to show the current version of the site and update if there is a newer version available.</p>
             ]]>
         </content>
     </entry>
