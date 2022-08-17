@@ -3,7 +3,7 @@
     <title>NZGrapher Support</title>
     <link href="https://info.grapher.nz/feed.xml" rel="self" />
     <link href="https://info.grapher.nz" />
-    <updated>2022-08-17T20:12:36+12:00</updated>
+    <updated>2022-08-17T20:17:14+12:00</updated>
     <author>
         <name>Jake Wills</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://info.grapher.nz/function-information/"/>
         <id>https://info.grapher.nz/function-information/</id>
 
-        <updated>2022-08-17T20:12:36+12:00</updated>
+        <updated>2022-08-17T20:17:14+12:00</updated>
             <summary>
                 <![CDATA[
                     This page has details on all of the menu items on NZGrapher. This menu area is about importing data into, and exporting data out of&hellip;
@@ -69,30 +69,21 @@
 <p id="h.p_lNkPwPeGu0_J" class="CDt4Ke zfr3Q">This is also useful if you want to remove a particular section of the data... for example in the kiwi data set if you just wanted to look at GS and NiBr, you would set these to 163 and 275 respectively, and leave all the others blank and press sample.</p>
 <h3><strong>Sort</strong></h3>
 <p id="h.p_WlZ32hggusy7" class="CDt4Ke zfr3Q">Sorts the data table by a particular variable. This doesn't affect displays.</p>
-<h2 id="h.p_WgLJY2RBumid_l" class="CDt4Ke zfr3Q JYVBee" tabindex="-1"></h2>
-<h3><strong>Reorder Variable</strong></h3>
-<p id="h.p_fdx8c0oWvyA8" class="CDt4Ke zfr3Q">Allows you to prepend text (add to the start of) to a variable.</p>
+<h3>Reorder Variable</h3>
+<p id="h.p_fdx8c0oWvyA8">Allows you to prepend text (add to the start of) to a variable.</p>
 <p id="h.p_KyZ6y1Etv24e" class="CDt4Ke zfr3Q">For example if you had a variable with values "N", "A", "M" and "E" and you wanted them to display in this order, you would put 1, 2, 3, 4 next to these respectively, and then it would graph in that order.</p>
-<h3><strong>Create New Variable (From 2 Variables)</strong></h3>
-<p id="h.p_GKeFM2TBwBb9" class="CDt4Ke zfr3Q">Allows you to add, subtract, multiply or divide two variables.</p>
-<h2 id="h.p_3g-myra1umif_l" class="CDt4Ke zfr3Q JYVBee" tabindex="-1"></h2>
-<h3><strong>Create New Variable (Linear Function)</strong></h3>
-<p id="h.p_KBfDhb7awFe1" class="CDt4Ke zfr3Q">Allows you to create a new variable with an equation of y = m*x + c where x is one of the columns in the existing data set.</p>
-<h2 id="h.p_mk5v3lSsumif_l" class="CDt4Ke zfr3Q JYVBee" tabindex="-1"></h2>
-<h2 id="h.p_mk5v3lSsumif_l" class="CDt4Ke zfr3Q JYVBee" tabindex="-1"></h2>
-<h3><strong>Create New Variable (Custom Function)</strong></h3>
-<p id="h.p_omswRRYuwV7M" class="CDt4Ke zfr3Q">This allows you to create a new variable by putting in an algebraic function with x in in eg "1/x^2+3" and it will create a new variable from that function.</p>
-<h2 id="h.p_ujHxW7aSumig_l" class="CDt4Ke zfr3Q JYVBee" tabindex="-1"></h2>
-<h3><strong>Create New Variable (From Condition)</strong></h3>
-<p id="h.p_omswRRYuwV7M" class="CDt4Ke zfr3Q">Allows you to create "Low" or "High" variables. Conditions can be &lt;, ≤, =, ≥, and &gt;.</p>
-<h2 id="h.p_ujHxW7aSumig_l" class="CDt4Ke zfr3Q JYVBee" tabindex="-1"></h2>
-<h2 id="h.p_eIudz5fSumih_l" class="CDt4Ke zfr3Q JYVBee" tabindex="-1"></h2>
-<h3><strong>Create New Variable (Re-Group)</strong></h3>
-<p id="h.p_cfR8BIYJw0Cp" class="CDt4Ke zfr3Q">Allows you to regroup variables, for example if a variable has 5 groups, you can assign each group to a master group, so you have less overall groups.</p>
-<h2 id="h.p_eIudz5fSumih_l" class="CDt4Ke zfr3Q JYVBee" tabindex="-1"></h2>
-<h2 id="h.p_F9B0YiPvumih_l" class="CDt4Ke zfr3Q JYVBee" tabindex="-1"></h2>
-<h3><strong>Create New Variable (Average)</strong></h3>
-<p id="h.p_Msz7wW9Hw8Kj" class="CDt4Ke zfr3Q">Creates a new variable by averaging columns.</p>
+<h3 id="h.p_Msz7wW9Hw8Kj" class="CDt4Ke zfr3Q">Create New Variable (From 2 Variables)</h3>
+<p>Allows you to add, subtract, multiply or divide two variables.</p>
+<h3>Create New Variable (Linear Function)</h3>
+<p>Allows you to create a new variable with an equation of y = m*x + c where x is one of the columns in the existing data set.</p>
+<h3>Create New Variable (Custom Function)</h3>
+<p>This allows you to create a new variable by putting in an algebraic function with x in in eg "1/x^2+3" and it will create a new variable from that function.</p>
+<h3>Create New Variable (From Condition)</h3>
+<p>Allows you to create "Low" or "High" variables. Conditions can be &lt;, ≤, =, ≥, and &gt;.</p>
+<h3>Create New Variable (Re-Group)</h3>
+<p>Allows you to regroup variables, for example if a variable has 5 groups, you can assign each group to a master group, so you have less overall groups.</p>
+<h3>Create New Variable (Average)</h3>
+<p>Creates a new variable by averaging columns.</p>
 <h2 id="h.p_n6EqLxvSumii_l" class="CDt4Ke zfr3Q JYVBee" tabindex="-1"></h2>
 <h3><strong>Filter Data</strong></h3>
 <p id="h.p_Jjr-NeT4wdVs" class="CDt4Ke zfr3Q">Allows you to filter out numerical data, for example, only look at kiwis that weigh over 2kg.</p>
