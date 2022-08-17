@@ -3,7 +3,7 @@
     <title>NZGrapher Support</title>
     <link href="https://info.grapher.nz/feed.xml" rel="self" />
     <link href="https://info.grapher.nz" />
-    <updated>2022-08-17T19:56:51+12:00</updated>
+    <updated>2022-08-17T20:12:36+12:00</updated>
     <author>
         <name>Jake Wills</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://info.grapher.nz/function-information/"/>
         <id>https://info.grapher.nz/function-information/</id>
 
-        <updated>2022-08-17T10:34:34+12:00</updated>
+        <updated>2022-08-17T20:12:36+12:00</updated>
             <summary>
                 <![CDATA[
                     This page has details on all of the menu items on NZGrapher. This menu area is about importing data into, and exporting data out of&hellip;
@@ -26,154 +26,83 @@
         <content type="html">
             <![CDATA[
                 <p>This page has details on all of the menu items on NZGrapher.</p>
-<div class="post__toc">
-<h3>Table of Contents</h3>
-<ul>
-<li><a href="#mcetoc_1gafgjukqm3">Data</a>
-<ul>
-<li><a href="#mcetoc_1gafgjukqm4">Open File</a></li>
-<li><a href="#mcetoc_1gafgjukqm5">Import from Clipboard</a></li>
-<li><a href="#mcetoc_1gafgjukqm6">Paste Table (Legacy)</a></li>
-<li><a href="#mcetoc_1gafgjukqm7">Open Link</a></li>
-<li><a href="#mcetoc_1gafgjukqm8">Select and Copy Data Table</a></li>
-<li><a href="#mcetoc_1gafgjukqm9">Download Data</a></li>
-<li><a href="#mcetoc_1gafgjukqma">Save Session</a></li>
-<li><a href="#mcetoc_1gafgjukqmb">Save Current State for Reset</a></li>
-<li><a href="#mcetoc_1gafgjukqmc">Reset</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1gafgjukqmd">Row</a>
-<ul>
-<li><a href="#mcetoc_1gafgjukqme">Add Row</a></li>
-<li><a href="#mcetoc_1gafgjukqmf">Delete Last Row</a></li>
-<li><a href="#mcetoc_1gafgjukqmg">Delete Specific Row</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1gafgjukqmh">Column</a>
-<ul>
-<li><a href="#mcetoc_1gafgjukqmi">Add Column</a></li>
-<li><a href="#mcetoc_1gafgjukqmj">Delete Last Column</a></li>
-<li><a href="#mcetoc_1gafgjukqmk">Delete Specific Column</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1gafgjukqml">Sample and More</a>
-<ul>
-<li><a href="#mcetoc_1gafgjukqmm">Sample</a></li>
-<li><a href="#mcetoc_1gafgjukqmn">Sort</a></li>
-<li><a href="#mcetoc_1gafgjukqmo">Reorder Variable</a></li>
-<li><a href="#mcetoc_1gafgjukqmp">Create New Variable (From 2 Variables)</a></li>
-<li><a href="#mcetoc_1gafgjukqmq">Create New Variable (Linear Function)</a></li>
-<li><a href="#mcetoc_1gafgjukqmr">Create New Variable (Custom Function)</a></li>
-<li><a href="#mcetoc_1gafgjukqms">Create New Variable (From Condition)</a></li>
-<li><a href="#mcetoc_1gafgjukqmt">Create New Variable (Re-Group)</a></li>
-<li><a href="#mcetoc_1gafgjukqmu">Create New Variable (Average)</a></li>
-<li><a href="#mcetoc_1gafgjukqmv">Filter Data</a></li>
-<li><a href="#mcetoc_1gafgjukqn0">Add Graphable Index Column</a></li>
-<li><a href="#mcetoc_1gafgjukqn1">Convert Time Column</a></li>
-<li><a href="#mcetoc_1gafgjukqn2">Encode Time Column</a></li>
-<li><a href="#mcetoc_1gafgjukqn3">Axis Options</a></li>
-<li><a href="#mcetoc_1gafgjukqn4">Advanced Tools</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1gafgjukqn5">Teaching Tools</a>
-<ul>
-<li><a href="#mcetoc_1gafgjukqn6">Bootstrapping</a></li>
-<li><a href="#mcetoc_1gafgjukqn7">Re-Randomisation</a></li>
-<li><a href="#mcetoc_1gafgjukqn8">Sampling Variability</a></li>
-<li><a href="#mcetoc_1gafgjukqn9">Video Tutorials</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1gafgjukqna">Save Changes</a></li>
-<li><a href="#mcetoc_1gafgjukqnb">Display Explorer</a></li>
-<li><a href="#mcetoc_1gafgjukqnc">Help</a>
-<ul>
-<li><a href="#mcetoc_1gafgjukqnd">Video Tutorials</a></li>
-<li><a href="#mcetoc_1gafgjukqne">Graph Information</a></li>
-<li><a href="#mcetoc_1gafgjukqnf">Function Information</a></li>
-<li><a href="#mcetoc_1gafgjukqng">Dataset Information</a></li>
-<li><a href="#mcetoc_1gafgjukqnh">Show Welcome</a></li>
-<li><a href="#mcetoc_1gafgjukqni">Show Overlay</a></li>
-</ul>
-</li>
-</ul>
-</div>
-<h2 id="mcetoc_1gafgjukqm3"><strong>Data</strong></h2>
+<h2><strong>Data</strong></h2>
 <p><span style="font-weight: 400;">This menu area is about importing data into, and exporting data out of NZGrapher.</span></p>
-<h3 id="mcetoc_1gafgjukqm4"><strong>Open File</strong></h3>
+<h3><strong>Open File</strong></h3>
 <p><span style="font-weight: 400;">This allows you to open a file from your device. The file must be a csv. Excel files are not supported, you need to save it as a csv before uploading.</span></p>
-<h3 id="mcetoc_1gafgjukqm5"><strong>Import from Clipboard</strong></h3>
+<h3><strong>Import from Clipboard</strong></h3>
 <p><span style="font-weight: 400;">This allows you to import data that you have already copied onto the clipboard. It needs to be copied from a table in a Google Sheet or an Excel Spreadsheet. The first time you try to use this function it will ask for access to the clipboard.</span></p>
 <figure class="post__image"><img loading="lazy"  src="https://info.grapher.nz/media/posts/15/pasted-image-0.png" sizes="(max-width: 768px) 100vw, 768px" srcset="https://info.grapher.nz/media/posts/15/responsive/pasted-image-0-xs.png 300w ,https://info.grapher.nz/media/posts/15/responsive/pasted-image-0-sm.png 480w ,https://info.grapher.nz/media/posts/15/responsive/pasted-image-0-md.png 768w"  alt="" width="337" height="173"></figure>
 <p><span style="font-weight: 400;">You need to press allow in order for this to work. If you press block, you can change the setting by pressing on the padlock icon and changing the toggle to on.</span></p>
 <figure class="post__image"><img loading="lazy"  src="https://info.grapher.nz/media/posts/15/pasted-image-0-1.png" sizes="(max-width: 768px) 100vw, 768px" srcset="https://info.grapher.nz/media/posts/15/responsive/pasted-image-0-1-xs.png 300w ,https://info.grapher.nz/media/posts/15/responsive/pasted-image-0-1-sm.png 480w ,https://info.grapher.nz/media/posts/15/responsive/pasted-image-0-1-md.png 768w"  alt="" width="335" height="278"></figure>
-<h3 id="mcetoc_1gafgjukqm6"><strong>Paste Table (Legacy)</strong></h3>
+<h3><strong>Paste Table (Legacy)</strong></h3>
 <p><span style="font-weight: 400;">Some devices do not support import from clipboard. If this is the case, you can use the paste table (legacy) mode which allows you to paste in a table that you have copied from elsewhere. Note: this is slower than using the Import from Clipboard, so if you can use that, it is better.</span></p>
-<h3 id="mcetoc_1gafgjukqm7"><strong>Open Link</strong></h3>
+<h3><strong>Open Link</strong></h3>
 <p><span style="font-weight: 400;">This allows you to link to a csv file that is hosted on the internet.</span></p>
-<h3 id="mcetoc_1gafgjukqm8"><strong>Select and Copy Data Table</strong></h3>
+<h3><strong>Select and Copy Data Table</strong></h3>
 <p>This highlights the data table and copies it to the clipboard. Useful if you want to take the data out into a report or a spreadsheet.</p>
-<h3 id="mcetoc_1gafgjukqm9"><strong>Download Data</strong></h3>
+<h3><strong>Download Data</strong></h3>
 <p>This downloads a copy of the data as a .csv</p>
-<h3 id="mcetoc_1gafgjukqma"><strong>Save Session</strong></h3>
+<h3><strong>Save Session</strong></h3>
 <p>This downloads a copy of the data as well as all of the current settings as a .nzgrapher file. When you upload a .nzgrapher file it not only loads the data, but all the graph settings and displays that you had set up.</p>
-<h3 id="mcetoc_1gafgjukqmb"><strong>Save Current State for Reset</strong></h3>
+<h3><strong>Save Current State for Reset</strong></h3>
 <p>This sets the data in its current state as the "default" dataset, so when you press "reset" it resets back to this point.</p>
-<h3 id="mcetoc_1gafgjukqmc"><strong>Reset</strong></h3>
+<h3><strong>Reset</strong></h3>
 <p>This resets the data back to it's original state or back to where it was last time you pressed "Save Current State for Reset".</p>
-<h2 id="mcetoc_1gafgjukqmd"><strong>Row</strong></h2>
-<h3 id="mcetoc_1gafgjukqme"><strong>Add Row</strong></h3>
+<h2><strong>Row</strong></h2>
+<h3><strong>Add Row</strong></h3>
 <p>This adds a new row to the bottom of the dataset.</p>
-<h3 id="mcetoc_1gafgjukqmf"><strong>Delete Last Row</strong></h3>
+<h3><strong>Delete Last Row</strong></h3>
 <p>This removes the last row from the dataset.</p>
-<h3 id="mcetoc_1gafgjukqmg"><strong>Delete Specific Row</strong></h3>
+<h3><strong>Delete Specific Row</strong></h3>
 <p>This deletes a specific row from the dataset (useful for removing outliers) by the point ID as shown on the left of the dataset.</p>
-<h2 id="mcetoc_1gafgjukqmh"><strong>Column</strong></h2>
-<h3 id="mcetoc_1gafgjukqmi"><strong>Add Column</strong></h3>
+<h2><strong>Column</strong></h2>
+<h3><strong>Add Column</strong></h3>
 <p>Adds a column to the right of the dataset.</p>
-<h3 id="mcetoc_1gafgjukqmj"><strong>Delete Last Column</strong></h3>
+<h3><strong>Delete Last Column</strong></h3>
 <p>Deletes the rightmost column.</p>
-<h3 id="mcetoc_1gafgjukqmk"><strong>Delete Specific Column</strong></h3>
+<h3><strong>Delete Specific Column</strong></h3>
 <p>Deletes a specific column.</p>
-<h2 id="mcetoc_1gafgjukqml"><strong>Sample and More</strong></h2>
-<h3 id="mcetoc_1gafgjukqmm"><strong>Sample</strong></h3>
+<h2><strong>Sample and More</strong></h2>
+<h3><strong>Sample</strong></h3>
 <p id="h.p_FldXwDIqunmS" class="CDt4Ke zfr3Q">Allows you to do either simple random samples, or stratified random samples.</p>
 <p id="h.p_lNkPwPeGu0_J" class="CDt4Ke zfr3Q">This is also useful if you want to remove a particular section of the data... for example in the kiwi data set if you just wanted to look at GS and NiBr, you would set these to 163 and 275 respectively, and leave all the others blank and press sample.</p>
-<h3 id="mcetoc_1gafgjukqmn"><strong>Sort</strong></h3>
+<h3><strong>Sort</strong></h3>
 <p id="h.p_WlZ32hggusy7" class="CDt4Ke zfr3Q">Sorts the data table by a particular variable. This doesn't affect displays.</p>
 <h2 id="h.p_WgLJY2RBumid_l" class="CDt4Ke zfr3Q JYVBee" tabindex="-1"></h2>
-<h3 id="mcetoc_1gafgjukqmo"><strong>Reorder Variable</strong></h3>
+<h3><strong>Reorder Variable</strong></h3>
 <p id="h.p_fdx8c0oWvyA8" class="CDt4Ke zfr3Q">Allows you to prepend text (add to the start of) to a variable.</p>
 <p id="h.p_KyZ6y1Etv24e" class="CDt4Ke zfr3Q">For example if you had a variable with values "N", "A", "M" and "E" and you wanted them to display in this order, you would put 1, 2, 3, 4 next to these respectively, and then it would graph in that order.</p>
-<h3 id="mcetoc_1gafgjukqmp"><strong>Create New Variable (From 2 Variables)</strong></h3>
+<h3><strong>Create New Variable (From 2 Variables)</strong></h3>
 <p id="h.p_GKeFM2TBwBb9" class="CDt4Ke zfr3Q">Allows you to add, subtract, multiply or divide two variables.</p>
 <h2 id="h.p_3g-myra1umif_l" class="CDt4Ke zfr3Q JYVBee" tabindex="-1"></h2>
-<h3 id="mcetoc_1gafgjukqmq"><strong>Create New Variable (Linear Function)</strong></h3>
+<h3><strong>Create New Variable (Linear Function)</strong></h3>
 <p id="h.p_KBfDhb7awFe1" class="CDt4Ke zfr3Q">Allows you to create a new variable with an equation of y = m*x + c where x is one of the columns in the existing data set.</p>
 <h2 id="h.p_mk5v3lSsumif_l" class="CDt4Ke zfr3Q JYVBee" tabindex="-1"></h2>
 <h2 id="h.p_mk5v3lSsumif_l" class="CDt4Ke zfr3Q JYVBee" tabindex="-1"></h2>
-<h3 id="mcetoc_1gafgjukqmr"><strong>Create New Variable (Custom Function)</strong></h3>
+<h3><strong>Create New Variable (Custom Function)</strong></h3>
 <p id="h.p_omswRRYuwV7M" class="CDt4Ke zfr3Q">This allows you to create a new variable by putting in an algebraic function with x in in eg "1/x^2+3" and it will create a new variable from that function.</p>
 <h2 id="h.p_ujHxW7aSumig_l" class="CDt4Ke zfr3Q JYVBee" tabindex="-1"></h2>
-<h3 id="mcetoc_1gafgjukqms"><strong>Create New Variable (From Condition)</strong></h3>
+<h3><strong>Create New Variable (From Condition)</strong></h3>
 <p id="h.p_omswRRYuwV7M" class="CDt4Ke zfr3Q">Allows you to create "Low" or "High" variables. Conditions can be &lt;, ≤, =, ≥, and &gt;.</p>
 <h2 id="h.p_ujHxW7aSumig_l" class="CDt4Ke zfr3Q JYVBee" tabindex="-1"></h2>
 <h2 id="h.p_eIudz5fSumih_l" class="CDt4Ke zfr3Q JYVBee" tabindex="-1"></h2>
-<h3 id="mcetoc_1gafgjukqmt"><strong>Create New Variable (Re-Group)</strong></h3>
+<h3><strong>Create New Variable (Re-Group)</strong></h3>
 <p id="h.p_cfR8BIYJw0Cp" class="CDt4Ke zfr3Q">Allows you to regroup variables, for example if a variable has 5 groups, you can assign each group to a master group, so you have less overall groups.</p>
 <h2 id="h.p_eIudz5fSumih_l" class="CDt4Ke zfr3Q JYVBee" tabindex="-1"></h2>
 <h2 id="h.p_F9B0YiPvumih_l" class="CDt4Ke zfr3Q JYVBee" tabindex="-1"></h2>
-<h3 id="mcetoc_1gafgjukqmu"><strong>Create New Variable (Average)</strong></h3>
+<h3><strong>Create New Variable (Average)</strong></h3>
 <p id="h.p_Msz7wW9Hw8Kj" class="CDt4Ke zfr3Q">Creates a new variable by averaging columns.</p>
 <h2 id="h.p_n6EqLxvSumii_l" class="CDt4Ke zfr3Q JYVBee" tabindex="-1"></h2>
-<h3 id="mcetoc_1gafgjukqmv"><strong>Filter Data</strong></h3>
+<h3><strong>Filter Data</strong></h3>
 <p id="h.p_Jjr-NeT4wdVs" class="CDt4Ke zfr3Q">Allows you to filter out numerical data, for example, only look at kiwis that weigh over 2kg.</p>
 <h2 id="h.p_F9B0YiPvumih_l" class="CDt4Ke zfr3Q JYVBee" tabindex="-1"></h2>
-<h3 id="mcetoc_1gafgjukqn0"><strong>Add Graphable Index Column</strong></h3>
+<h3><strong>Add Graphable Index Column</strong></h3>
 <p>Adds a column to the start of the data that is just the id / index of the point.</p>
-<h3 id="mcetoc_1gafgjukqn1"><strong>Convert Time Column</strong></h3>
+<h3><strong>Convert Time Column</strong></h3>
 <p id="h.p_aBDtiVAExSwy" class="CDt4Ke zfr3Q">Takes standard date / time fields and converts them to Seconds, Minutes, Hours or Days for graphing in scatter graphs or dot plots.</p>
 <h2 id="h.p_uFVGAN2Dumij_l" class="CDt4Ke zfr3Q JYVBee" tabindex="-1"></h2>
-<h3 id="mcetoc_1gafgjukqn2"><strong>Encode Time Column</strong></h3>
+<h3><strong>Encode Time Column</strong></h3>
 <section id="h.p_AKT5VLuiukuY" class="yaqOZd">
 <div class="mYVXT">
 <div class="LS81yb VICjCf j5pSsc db35Fc" tabindex="-1">
@@ -196,21 +125,21 @@
 </div>
 </section>
 <section id="h.p_GJhjWcayxo0c" class="yaqOZd"></section>
-<h3 id="mcetoc_1gafgjukqn3"><strong>Axis Options</strong></h3>
+<h3><strong>Axis Options</strong></h3>
 <p>Allows you to fix some of the axis start and end points as well as some other random settings.</p>
-<h3 id="mcetoc_1gafgjukqn4"><strong>Advanced Tools</strong></h3>
+<h3><strong>Advanced Tools</strong></h3>
 <p>Explains how to open up the menu on the right / bottom to show some of the extra tools in there.</p>
-<h2 id="mcetoc_1gafgjukqn5"><strong>Teaching Tools</strong></h2>
+<h2><strong>Teaching Tools</strong></h2>
 <p>For each of the teaching tools the best way to understand them is to watch the <a href="https://info.grapher.nz/teaching-tools/">video tutorials</a>.</p>
-<h3 id="mcetoc_1gafgjukqn6"><strong>Bootstrapping</strong></h3>
+<h3><strong>Bootstrapping</strong></h3>
 <p>This is for teaching how bootstrapping works.</p>
-<h3 id="mcetoc_1gafgjukqn7"><strong>Re-Randomisation</strong></h3>
+<h3><strong>Re-Randomisation</strong></h3>
 <p>This is for teaching what re-randomisation does.</p>
-<h3 id="mcetoc_1gafgjukqn8"><strong>Sampling Variability</strong></h3>
+<h3><strong>Sampling Variability</strong></h3>
 <p>This is for teaching the effects of sampling and the variability of sampling.</p>
-<h3 id="mcetoc_1gafgjukqn9"><strong>Video Tutorials</strong></h3>
+<h3><strong>Video Tutorials</strong></h3>
 <p>Takes you to this website with video tutorials on how to use the teaching tools.</p>
-<h2 id="mcetoc_1gafgjukqna"><strong>Save Changes</strong></h2>
+<h2><strong>Save Changes</strong></h2>
 <p id="h.p_lABh2TtBxtzn" class="CDt4Ke zfr3Q">Updates any manual changes you have made to the dataset to the graph and selection boxes at the bottom of the page.</p>
 <section id="h.p_A_IkzKKHxtzN" class="yaqOZd">
 <div class="mYVXT">
@@ -234,20 +163,20 @@
 </div>
 </section>
 <section id="h.p_pmY0JWosx_1z" class="yaqOZd"></section>
-<h2 id="mcetoc_1gafgjukqnb"><strong>Display Explorer</strong></h2>
+<h2><strong>Display Explorer</strong></h2>
 <p>Launches the display explorer which brings up a series of displays that you can make with the selected variables.</p>
-<h2 id="mcetoc_1gafgjukqnc"><strong>Help</strong></h2>
-<h3 id="mcetoc_1gafgjukqnd"><strong>Video Tutorials</strong></h3>
+<h2><strong>Help</strong></h2>
+<h3><strong>Video Tutorials</strong></h3>
 <p>Takes you to this website with video tutorials on NZGrapher.</p>
-<h3 id="mcetoc_1gafgjukqne"><strong>Graph Information</strong></h3>
+<h3><strong>Graph Information</strong></h3>
 <p>Takes you to this website with information on the different graphs NZGrapher can draw.</p>
-<h3 id="mcetoc_1gafgjukqnf"><strong>Function Information</strong></h3>
+<h3><strong>Function Information</strong></h3>
 <p>Takes you to this page.</p>
-<h3 id="mcetoc_1gafgjukqng"><strong>Dataset Information</strong></h3>
+<h3><strong>Dataset Information</strong></h3>
 <p>Takes you to this website with information on the datasets pre-built into NZGrapher.</p>
-<h3 id="mcetoc_1gafgjukqnh"><strong>Show Welcome</strong></h3>
+<h3><strong>Show Welcome</strong></h3>
 <p>Shows the welcome splash screen with general info about NZGrapher.</p>
-<h3 id="mcetoc_1gafgjukqni"><strong>Show Overlay</strong></h3>
+<h3><strong>Show Overlay</strong></h3>
 <p>Shows an overlay with pointers about what each of the areas of the interface do.</p>
             ]]>
         </content>
@@ -260,7 +189,7 @@
         <link href="https://info.grapher.nz/graph-information/"/>
         <id>https://info.grapher.nz/graph-information/</id>
 
-        <updated>2022-08-17T19:56:51+12:00</updated>
+        <updated>2022-08-17T20:12:20+12:00</updated>
             <summary>
                 <![CDATA[
                     Please note: this page is still under development Switches the colours on the graph to the opposite colours Makes all of the NZGrapher interface in&hellip;
@@ -269,36 +198,6 @@
         <content type="html">
             <![CDATA[
                 <p>Please note: this page is still under development</p>
-<div class="post__toc">
-<h3>Table of Contents</h3>
-<ul>
-<li><a href="#mcetoc_1gafgu27q121">About</a></li>
-<li><a href="#mcetoc_1gafgu27q122">Pairs Plot</a></li>
-<li><a href="#mcetoc_1gafgu27q123">Dot Plot (and Box and Whisker)</a></li>
-<li><a href="#mcetoc_1gafgu27q124">Bar Graph</a></li>
-<li><a href="#mcetoc_1gafgu27q125">Bar Graph - Summary Data</a></li>
-<li><a href="#mcetoc_1gafgu27q126">Histogram</a></li>
-<li><a href="#mcetoc_1gafgu27q127">Histogram - Summary Data</a></li>
-<li><a href="#mcetoc_1gafgu27q128">Pie Chart</a></li>
-<li><a href="#mcetoc_1gafgu27q129">Scatter Graph</a></li>
-<li><a href="#mcetoc_1gafgu27q12a">Grid Density Plot</a></li>
-<li><a href="#mcetoc_1gafgu27q12b">Residuals Plot</a></li>
-<li><a href="#mcetoc_1gafgu27q12c">Bootstrap Single Variable</a></li>
-<li><a href="#mcetoc_1gafgu27q12d">Bootstrap Confidence Interval - (Median or Mean)</a></li>
-<li><a href="#mcetoc_1gafgu27q12e">Re-Randomisation - (Median or Mean)</a></li>
-<li><a href="#mcetoc_1gafgu27q12f">Paired Experiment Dot Plot (and Arrows Graph)</a></li>
-<li><a href="#mcetoc_1gafgu27q12g">Time Series</a>
-<ul>
-<li><a href="#mcetoc_1gafgu27q12h">Time Series</a></li>
-<li><a href="#mcetoc_1gafgu27q12i">Re-Composition</a></li>
-<li><a href="#mcetoc_1gafgu27q12j">Seasonal Effects</a></li>
-<li><a href="#mcetoc_1gafgu27q12k">Forecasts</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1gafgu27q12l">Change Log</a></li>
-<li><a href="#mcetoc_1gafgu27q12m">Update</a></li>
-</ul>
-</div>
 <h2>Options on many / all graphs</h2>
 <h4>Invert Colours</h4>
 <p>Switches the colours on the graph to the opposite colours</p>
@@ -359,11 +258,13 @@
 <p>This is the label that is shown next to the colour key at the top of the graph.</p>
 <h4>Show ID of Removed Points</h4>
 <p>In the top right corner shows the ID of the points that have been removed as they didn't have valid data for graphing. This is on by default.</p>
-<h2 id="mcetoc_1gafgu27q121">About</h2>
+<h4>Transparency</h4>
+<p>This slider allows you to set the transparency of the points on the graph.</p>
+<h2>About</h2>
 <p>This shows the info page about NZGrapher in the graph window (it's not really a graph).</p>
-<h2 id="mcetoc_1gafgu27q122">Pairs Plot</h2>
+<h2>Pairs Plot</h2>
 <p>This graph gives a quick overview of all the variables in the dataset. Note: it will not work if the first data point has any missing values.</p>
-<h2 id="mcetoc_1gafgu27q123">Dot Plot (and Box and Whisker)</h2>
+<h2>Dot Plot (and Box and Whisker)</h2>
 <p>This graph draws dot plots and box and whisker graphs, as well as violin graphs, strip graphs, shape outline graphs and bee swarms.</p>
 <h4>Data Options</h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
@@ -448,28 +349,52 @@
 <p>Makes the thickness of the lines used to draw the dots much thicker.</p>
 <h4 id="sizediv"><span id="pointsizename">Point Size</span></h4>
 <p>This slider allows you to set the size of the points on the graph.</p>
-<h4>Transparency</h4>
-<p>This slider allows you to set the transparency of the points on the graph.</p>
-<h2 id="mcetoc_1gafgu27q124">Bar Graph</h2>
-<h2 id="mcetoc_1gafgu27q125">Bar Graph - Summary Data</h2>
-<h2 id="mcetoc_1gafgu27q126">Histogram</h2>
-<h2 id="mcetoc_1gafgu27q127">Histogram - Summary Data</h2>
-<h2 id="mcetoc_1gafgu27q128">Pie Chart</h2>
-<h2 id="mcetoc_1gafgu27q129">Scatter Graph</h2>
-<h2 id="mcetoc_1gafgu27q12a">Grid Density Plot</h2>
-<h2 id="mcetoc_1gafgu27q12b">Residuals Plot</h2>
-<h2 id="mcetoc_1gafgu27q12c">Bootstrap Single Variable</h2>
-<h2 id="mcetoc_1gafgu27q12d">Bootstrap Confidence Interval - (Median or Mean)</h2>
-<h2 id="mcetoc_1gafgu27q12e">Re-Randomisation - (Median or Mean)</h2>
-<h2 id="mcetoc_1gafgu27q12f">Paired Experiment Dot Plot (and Arrows Graph)</h2>
-<h2 id="mcetoc_1gafgu27q12g">Time Series</h2>
-<h3 id="mcetoc_1gafgu27q12h">Time Series</h3>
-<h3 id="mcetoc_1gafgu27q12i">Re-Composition</h3>
-<h3 id="mcetoc_1gafgu27q12j">Seasonal Effects</h3>
-<h3 id="mcetoc_1gafgu27q12k">Forecasts</h3>
-<h2 id="mcetoc_1gafgu27q12l">Change Log</h2>
+<h2>Bar Graph</h2>
+<h4>Data Options</h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 22.8631%;">Numerical 1</td>
+<td style="width: 77.1369%;">This is the variable that is plotted against the x-axis.</td>
+</tr>
+<tr>
+<td style="width: 22.8631%;">Category 1 (Optional)</td>
+<td style="width: 77.1369%;">This is the variable that is used to split the data into different box plots that are plotted on the same axis.</td>
+</tr>
+<tr>
+<td style="width: 22.8631%;">Category 2 (Optional)</td>
+<td style="width: 77.1369%;">This is the variable that splits the graph into multiple graphs side by side.</td>
+</tr>
+<tr>
+<td style="width: 22.8631%;">Colour By (Optional)</td>
+<td style="width: 77.1369%;">This is the variable that the dots are coloured by.</td>
+</tr>
+</tbody>
+</table>
+<h4>Summaries</h4>
+<h4>Gridlines</h4>
+<h4>100% Bar Graph</h4>
+<h4>Relative Freq.</h4>
+<h4>Relative Width</h4>
+<h2>Bar Graph - Summary Data</h2>
+<h2>Histogram</h2>
+<h2>Histogram - Summary Data</h2>
+<h2>Pie Chart</h2>
+<h2>Scatter Graph</h2>
+<h2>Grid Density Plot</h2>
+<h2>Residuals Plot</h2>
+<h2>Bootstrap Single Variable</h2>
+<h2>Bootstrap Confidence Interval - (Median or Mean)</h2>
+<h2>Re-Randomisation - (Median or Mean)</h2>
+<h2>Paired Experiment Dot Plot (and Arrows Graph)</h2>
+<h2>Time Series</h2>
+<h3>Time Series</h3>
+<h3>Re-Composition</h3>
+<h3>Seasonal Effects</h3>
+<h3>Forecasts</h3>
+<h2>Change Log</h2>
 <p>This allows you to see a list of all the changes that have been made to NZGrapher.</p>
-<h2 id="mcetoc_1gafgu27q12m">Update</h2>
+<h2>Update</h2>
 <p>This allows schools that are hosting themselves to show the current version of the site and update if there is a newer version available.</p>
             ]]>
         </content>
@@ -482,7 +407,7 @@
         <link href="https://info.grapher.nz/video-tutorials/"/>
         <id>https://info.grapher.nz/video-tutorials/</id>
 
-        <updated>2022-08-15T13:34:51+12:00</updated>
+        <updated>2022-08-17T20:12:10+12:00</updated>
             <summary>
                 <![CDATA[
                     Please note: the videos on this page are still under development, so are not all here yet. By Feature Intro to NZGrapher Pairs Plots Dot&hellip;
@@ -491,66 +416,32 @@
         <content type="html">
             <![CDATA[
                 <p>Please note: the videos on this page are still under development, so are not all here yet.</p>
-<div class="post__toc">
-<h3>Table of Contents</h3>
-<ul>
-<li><a href="#mcetoc_1gafghmovgo">By Feature</a>
-<ul>
-<li><a href="#mcetoc_1gafghmovgp">Intro to NZGrapher</a></li>
-<li><a href="#mcetoc_1gafghmovgq">Pairs Plots</a></li>
-<li><a href="#mcetoc_1gafghmovgr">Dot Plots</a></li>
-<li><a href="#mcetoc_1gafghmovgs">Scatter Graphs</a></li>
-<li><a href="#mcetoc_1gafghmovgt">Residuals Plot</a></li>
-<li><a href="#mcetoc_1gafghmovgu">Bootstrap Confidence Intervals</a></li>
-<li><a href="#mcetoc_1gafghmovgv">Experimental Data</a></li>
-<li><a href="#mcetoc_1gafghmovh0">Paired Experimental Data (Including Arrows Graphs)</a></li>
-<li><a href="#mcetoc_1gafghmovh1">Time Series Graphs</a></li>
-<li><a href="#mcetoc_1gafghmovh2">Sampling a Dataset</a></li>
-<li><a href="#mcetoc_1gafghmovh3">Adding a Custom Line</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1gafghmovh4">By NCEA Standard</a>
-<ul>
-<li><a href="#mcetoc_1gafghmovh5">91035 (1.10) Multivariate Data</a></li>
-<li><a href="#mcetoc_1gafghmovh6">91036 (1.11) Bivariate Data</a></li>
-<li><a href="#mcetoc_1gafghmovh7">91264 (2.9) Statistical Inference</a></li>
-<li><a href="#mcetoc_1gafghmovh8">91265 (2.10) Statistical Experiments</a></li>
-<li><a href="#mcetoc_1gafghmovh9">91580 (3.8) Time Series</a></li>
-<li><a href="#mcetoc_1gafghmovha">91581 (3.9) Bivariate Data</a></li>
-<li><a href="#mcetoc_1gafghmovhb">91582 (3.10) Statistical Inference</a></li>
-<li><a href="#mcetoc_1gafghmovhc">91583 (3.11) Conduct and Experiment</a></li>
-<li><a href="#mcetoc_1gafghmovhd">91168 (Physics 2.1) Carry out a practical physics investigation that leads to a non-linear mathematical relationship</a></li>
-<li><a href="#mcetoc_1gafghmovhe">91521 (Physics 3.1) Carry out a practical investigation to test a physics theory relating two variables in a non-linear relationship</a></li>
-</ul>
-</li>
-</ul>
-</div>
-<h2 id="mcetoc_1gafghmovgo">By Feature</h2>
-<h3 id="mcetoc_1gafghmovgp">Intro to NZGrapher</h3>
-<h3 id="mcetoc_1gafghmovgq">Pairs Plots</h3>
-<h3 id="mcetoc_1gafghmovgr">Dot Plots</h3>
+<h2>By Feature</h2>
+<h3>Intro to NZGrapher</h3>
+<h3>Pairs Plots</h3>
+<h3>Dot Plots</h3>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/O9pOOBJmQBM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-<h3 id="mcetoc_1gafghmovgs">Scatter Graphs</h3>
-<h3 id="mcetoc_1gafghmovgt">Residuals Plot</h3>
-<h3 id="mcetoc_1gafghmovgu">Bootstrap Confidence Intervals</h3>
-<h3 id="mcetoc_1gafghmovgv">Experimental Data</h3>
-<h3 id="mcetoc_1gafghmovh0">Paired Experimental Data (Including Arrows Graphs)</h3>
-<h3 id="mcetoc_1gafghmovh1">Time Series Graphs</h3>
-<h3 id="mcetoc_1gafghmovh2">Sampling a Dataset</h3>
-<h3 id="mcetoc_1gafghmovh3">Adding a Custom Line</h3>
+<h3>Scatter Graphs</h3>
+<h3>Residuals Plot</h3>
+<h3>Bootstrap Confidence Intervals</h3>
+<h3>Experimental Data</h3>
+<h3>Paired Experimental Data (Including Arrows Graphs)</h3>
+<h3>Time Series Graphs</h3>
+<h3>Sampling a Dataset</h3>
+<h3>Adding a Custom Line</h3>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/2kogDySwR_k" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-<h2 id="mcetoc_1gafghmovh4">By NCEA Standard</h2>
-<h3 id="mcetoc_1gafghmovh5">91035 (1.10) Multivariate Data</h3>
-<h3 id="mcetoc_1gafghmovh6">91036 (1.11) Bivariate Data</h3>
-<h3 id="mcetoc_1gafghmovh7">91264 (2.9) Statistical Inference</h3>
-<h3 id="mcetoc_1gafghmovh8">91265 (2.10) Statistical Experiments</h3>
-<h3 id="mcetoc_1gafghmovh9">91580 (3.8) Time Series</h3>
-<h3 id="mcetoc_1gafghmovha">91581 (3.9) Bivariate Data</h3>
-<h3 id="mcetoc_1gafghmovhb">91582 (3.10) Statistical Inference</h3>
-<h3 id="mcetoc_1gafghmovhc">91583 (3.11) Conduct and Experiment</h3>
-<h3 id="mcetoc_1gafghmovhd">91168 (Physics 2.1) Carry out a practical physics investigation that leads to a non-linear mathematical relationship</h3>
+<h2>By NCEA Standard</h2>
+<h3>91035 (1.10) Multivariate Data</h3>
+<h3>91036 (1.11) Bivariate Data</h3>
+<h3>91264 (2.9) Statistical Inference</h3>
+<h3>91265 (2.10) Statistical Experiments</h3>
+<h3>91580 (3.8) Time Series</h3>
+<h3>91581 (3.9) Bivariate Data</h3>
+<h3>91582 (3.10) Statistical Inference</h3>
+<h3>91583 (3.11) Conduct and Experiment</h3>
+<h3>91168 (Physics 2.1) Carry out a practical physics investigation that leads to a non-linear mathematical relationship</h3>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/bq2Pkoi3p8Y" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-<h3 id="mcetoc_1gafghmovhe">91521 (Physics 3.1) Carry out a practical investigation to test a physics theory relating two variables in a non-linear relationship</h3>
+<h3>91521 (Physics 3.1) Carry out a practical investigation to test a physics theory relating two variables in a non-linear relationship</h3>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/uG05e7NCZkY" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
@@ -563,7 +454,7 @@
         <link href="https://info.grapher.nz/school-folders/"/>
         <id>https://info.grapher.nz/school-folders/</id>
 
-        <updated>2022-08-15T12:56:36+12:00</updated>
+        <updated>2022-08-17T20:11:57+12:00</updated>
             <summary>
                 <![CDATA[
                     School folders allow teachers to load their own datasets onto NZGrapher and then share a link directly to that dataset to their students so the&hellip;
@@ -586,7 +477,7 @@
         <link href="https://info.grapher.nz/nzgrapher-invoice/"/>
         <id>https://info.grapher.nz/nzgrapher-invoice/</id>
 
-        <updated>2022-06-02T19:47:04+12:00</updated>
+        <updated>2022-08-17T20:11:39+12:00</updated>
             <summary>
                 <![CDATA[
                     The form below allows you to create an invoice that you can pass onto your school for the use of NZGrapher. Once you press the&hellip;
@@ -609,7 +500,7 @@
         <link href="https://info.grapher.nz/contact/"/>
         <id>https://info.grapher.nz/contact/</id>
 
-        <updated>2022-06-02T19:10:27+12:00</updated>
+        <updated>2022-08-17T20:11:49+12:00</updated>
             <summary>
                 <![CDATA[
                     The best way to get in touch is via email. If you want to have a phone conversation, send me an email and we can&hellip;
@@ -631,7 +522,7 @@
         <link href="https://info.grapher.nz/donate/"/>
         <id>https://info.grapher.nz/donate/</id>
 
-        <updated>2022-06-02T19:13:26+12:00</updated>
+        <updated>2022-08-17T20:11:45+12:00</updated>
             <summary>
                 <![CDATA[
                     Thank you to all the schools and individuals who have supported me so far, your donations have been appreciated and enable me to continue to&hellip;
@@ -662,7 +553,7 @@
         <link href="https://info.grapher.nz/teaching-tools/"/>
         <id>https://info.grapher.nz/teaching-tools/</id>
 
-        <updated>2022-06-02T09:37:26+12:00</updated>
+        <updated>2022-08-17T20:11:12+12:00</updated>
             <summary>
                 <![CDATA[
                     Bootstrapping Re-Randomisation Sampling Variability
@@ -670,17 +561,9 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <div class="post__toc">
-<h3>Table of Contents</h3>
-<ul>
-<li><a href="#mcetoc_1g4gj3jufbr">Bootstrapping</a></li>
-<li><a href="#mcetoc_1g4gj5j0bcj">Re-Randomisation</a></li>
-<li><a href="#mcetoc_1g4gj7cs5cn">Sampling Variability</a></li>
-</ul>
-</div>
-<h1 id="mcetoc_1g4gj3jufbr">Bootstrapping</h1>
+                <h2>Bootstrapping</h2>
 <p class="post__video"><div class="post__iframe"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/0bYWD-Lkzxo" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
-<h1 id="mcetoc_1g4gj5j0bcj">Re-Randomisation</h1>
+<h2>Re-Randomisation</h2>
 <p class="post__video"><div class="post__iframe"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/Je3qz5rpK5I" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
 <div class="hJDwNd-AhqUyc-qWD73c purZT-AhqUyc-II5mzb pSzOP-AhqUyc-qWD73c JNdkSc">
 <div class="JNdkSc-SmKAyb">
@@ -690,7 +573,7 @@
 <div class="jXK9ad-SmKAyb">
 <div class="tyJCtd OWlOyc baZpAe">
 <div class="WIdY2d M1aSXe">
-<h1 id="mcetoc_1g4gj7cs5cn">Sampling Variability</h1>
+<h2>Sampling Variability</h2>
 <p><br><div class="post__iframe"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/50oBxZw3IIE" allowfullscreen="allowfullscreen"></iframe></div>
 <p> </p>
 </div>
@@ -712,7 +595,7 @@
         <link href="https://info.grapher.nz/nzgrapher-usage/"/>
         <id>https://info.grapher.nz/nzgrapher-usage/</id>
 
-        <updated>2022-06-02T09:26:49+12:00</updated>
+        <updated>2022-08-17T20:10:45+12:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -728,7 +611,7 @@
         <link href="https://info.grapher.nz/dataset-info/"/>
         <id>https://info.grapher.nz/dataset-info/</id>
 
-        <updated>2022-06-02T09:22:48+12:00</updated>
+        <updated>2022-08-17T20:10:36+12:00</updated>
             <summary>
                 <![CDATA[
                     This is a list of what all the variables are and where the dataset is from for the built in datasets on NZGrapher. You can&hellip;
@@ -737,35 +620,8 @@
         <content type="html">
             <![CDATA[
                 <p><span style="font-weight: 400;">This is a list of what all the variables are and where the dataset is from for the built in datasets on NZGrapher. You can always load your own data, or have a school folder with data that your school has uploaded.</span></p>
-<div class="post__toc">
-<h3>Table of Contents</h3>
-<ul>
-<li><a href="#mcetoc_1g4gib845am">Babies </a></li>
-<li><a href="#mcetoc_1g4gib845an">Ball Wear </a></li>
-<li><a href="#mcetoc_1g4gib845ao">Cars </a></li>
-<li><a href="#mcetoc_1g4gib845ap">Diamonds </a></li>
-<li><a href="#mcetoc_1g4gib845aq">Empty Dataset for Editing </a></li>
-<li><a href="#mcetoc_1g4gib845ar">Kiwi </a></li>
-<li><a href="#mcetoc_1g4gib845as">Marathon </a></li>
-<li><a href="#mcetoc_1g4gib845at">Rugby </a></li>
-<li><a href="#mcetoc_1g4gib845au">Sharks </a></li>
-<li><a href="#mcetoc_1g4gib845av">Sports Science </a></li>
-<li><a href="#mcetoc_1g4gib845b0">TS Note </a></li>
-<li><a href="#mcetoc_1g4gib845b1">TS - Births and Deaths </a></li>
-<li><a href="#mcetoc_1g4gib845b2">TS - Forestry </a></li>
-<li><a href="#mcetoc_1g4gib845b3">TS - Imports </a></li>
-<li><a href="#mcetoc_1g4gib845b4">TS - Jobs </a></li>
-<li><a href="#mcetoc_1g4gib845b5">TS - Penguin </a></li>
-<li><a href="#mcetoc_1g4gib845b6">TS - Sea Ice </a></li>
-<li><a href="#mcetoc_1g4gib845b7">TS - Sunglasses </a></li>
-<li><a href="#mcetoc_1g4gib845b8">TS – Temperatures Auckland </a></li>
-<li><a href="#mcetoc_1g4gib845b9">TS - Visitors </a></li>
-<li><a href="#mcetoc_1g4gib845ba">Temperatures - Auckland </a></li>
-</ul>
-</div>
-<h1 id="mcetoc_1g4gib845am"><strong>Babies </strong></h1>
+<h2><strong>Babies </strong></h2>
 <p><span style="font-weight: 400;">The data on 189 births were collected at Baystate Medical Center, Springfield, Mass. during 1986. The goal of this study was to identify risk factors associated with giving birth to a low birth weight  baby (weighing less than 2500 grams). Data was collected on 189 women, 59 of which had low  birth weight babies and 130 of which had normal birth weight babies.</span></p>
-<p> </p>
 <table>
 <tbody>
 <tr>
@@ -827,10 +683,8 @@
 </tr>
 </tbody>
 </table>
-<p> </p>
-<h1 id="mcetoc_1g4gib845an"><strong>Ball Wear </strong></h1>
+<h2><strong>Ball Wear </strong></h2>
 <p><span style="font-weight: 400;">Data was recorded of students going to the school ball in 2012 as to how much they spent on  their clothing and accessories. </span></p>
-<p> </p>
 <table>
 <tbody>
 <tr>
@@ -860,10 +714,8 @@
 </tr>
 </tbody>
 </table>
-<p> </p>
-<h1 id="mcetoc_1g4gib845ao"><strong>Cars </strong></h1>
+<h2><strong>Cars </strong></h2>
 <p><span style="font-weight: 400;">With rising costs of owning and running a car, and environmental awareness, buyers are  becoming more conscious of the features when purchasing new cars. The data supplied is for  new vehicles sold in America in 1993. </span></p>
-<p> </p>
 <table>
 <tbody>
 <tr>
@@ -958,10 +810,8 @@
 </tr>
 </tbody>
 </table>
-<p> </p>
-<h1 id="mcetoc_1g4gib845ap"><strong>Diamonds </strong></h1>
+<h2><strong>Diamonds </strong></h2>
 <p><span style="font-weight: 400;">Every diamond is unique, and there are a variety of factors which affect the price of a diamond.  Insurance companies in particular are concerned that stones are valued correctly. Data on 236 round diamond stones was collected from a Singapore based retailer of diamond  jewellery, who had the stones valued.</span></p>
-<p> </p>
 <table>
 <tbody>
 <tr>
@@ -1017,13 +867,10 @@
 </tr>
 </tbody>
 </table>
-<p> </p>
-<h1 id="mcetoc_1g4gib845aq"><strong>Empty Dataset for Editing </strong></h1>
+<h2><strong>Empty Dataset for Editing </strong></h2>
 <p><span style="font-weight: 400;">This is a blank dataset designed for entering experimental data. </span></p>
-<p> </p>
-<h1 id="mcetoc_1g4gib845ar"><strong>Kiwi </strong></h1>
+<h2><strong>Kiwi </strong></h2>
 <p><span style="font-weight: 400;">A sample of kiwi birds around New Zealand was collected in order to help with conservation  efforts. The original data is from:</span><span style="font-weight: 400;">http://www.kiwisforkiwi.org/ </span><span style="font-weight: 400;">and was sourced from the secondary  school guides </span><i><span style="font-weight: 400;">(</span></i><i><span style="font-weight: 400;">http://seniorsecondary.tki.org.nz/Mathematics-and-statistics/Achievement objectives/AOs-by-level/AO-S7-1</span></i><i><span style="font-weight: 400;">)</span></i><i><span style="font-weight: 400;"> </span></i></p>
-<p> </p>
 <table>
 <tbody>
 <tr>
@@ -1087,14 +934,11 @@
 </tr>
 </tbody>
 </table>
-<p> </p>
 <p><i><span style="font-weight: 400;">Teachers note: this is a synthesised dataset based on real data. At the time of creating the data  set there were around 25,000 brown, 17,000 great spotted and 34,500 southern tokoeka. These  numbers formed the basis of the data set, but instead of being out of around 76,000 the data set  contains around 700 birds. </span></i></p>
 <p><i><span style="font-weight: 400;">The data was generated using the population parameters, including gender, location, height,  weight and species in Fathom. The size of the population was so that it was too big to use all the  data (when doing by hand) but not too big that it couldn’t be created for students to use as a  “population” to sample from. </span></i></p>
-<p> </p>
-<h1 id="mcetoc_1g4gib845as"><strong>Marathon </strong></h1>
+<h2><strong>Marathon </strong></h2>
 <p><span style="font-weight: 400;">The data is a sample taken from marathons in NZ. </span></p>
 <p><span style="font-weight: 400;">It is a simple random sample of 200 athletes.</span></p>
-<p> </p>
 <table>
 <tbody>
 <tr>
@@ -1139,10 +983,8 @@
 </tr>
 </tbody>
 </table>
-<p> </p>
-<h1 id="mcetoc_1g4gib845at"><strong>Rugby </strong></h1>
+<h2><strong>Rugby </strong></h2>
 <p><span style="font-weight: 400;">The data is real data and comes from </span><span style="font-weight: 400;">http://www.rugby-sidestep-central.com/</span><span style="font-weight: 400;"> </span></p>
-<p> </p>
 <table>
 <tbody>
 <tr>
@@ -1187,12 +1029,9 @@
 </tr>
 </tbody>
 </table>
-<p> </p>
-<h1 id="mcetoc_1g4gib845au"><strong>Sharks </strong></h1>
+<h2><strong>Sharks </strong></h2>
 <p><span style="font-weight: 400;">The data is real and comes from the MPI centralised observer database:  </span></p>
-<p><span style="font-weight: 400;">http://www.fish.govt.nz/mi </span></p>
-<p><span style="font-weight: 400;">nz/Research+Services/Research+Database+Documentation/Cod/default.htm</span><span style="font-weight: 400;"> </span></p>
-<p> </p>
+<p><span style="font-weight: 400;">http://www.fish.govt.nz/mi</span><span style="font-weight: 400;">nz/Research+Services/Research+Database+Documentation/Cod/default.htm</span><span style="font-weight: 400;"> </span></p>
 <table>
 <tbody>
 <tr>
@@ -1237,10 +1076,8 @@
 </tr>
 </tbody>
 </table>
-<p><br><br></p>
-<h1 id="mcetoc_1g4gib845av"><strong>Sports Science </strong></h1>
+<h2><strong>Sports Science </strong></h2>
 <p><span style="font-weight: 400;">The data is real data and comes from </span><span style="font-weight: 400;">http://www.statsci.org/data/oz/ais.html</span><span style="font-weight: 400;"> </span><span style="font-weight: 400;">The data set provides information about 102 male athletes and 100 female athletes at the  Australian Institute of Sport. </span></p>
-<p> </p>
 <table>
 <tbody>
 <tr>
@@ -1358,14 +1195,11 @@
 </tbody>
 </table>
 <p><i><span style="font-weight: 400;">Teachers note: this is the dataset used in the TKI Exemplar A</span></i></p>
-<p> </p>
-<h1 id="mcetoc_1g4gib845b0"><strong>TS Note </strong></h1>
+<h2><strong>TS Note </strong></h2>
 <p><span style="font-weight: 400;">All datasets prefixed with a TS that are preloaded in NZGrapher are time series datasets, and not  particularly well suited to bivariate or multivariate analysis. </span></p>
-<p> </p>
-<h1 id="mcetoc_1g4gib845b1"><strong>TS - Births and Deaths </strong></h1>
+<h2><strong>TS - Births and Deaths </strong></h2>
 <p><span style="font-weight: 400;">Data on the number of births and deaths in New Zealand. </span></p>
 <p><span style="font-weight: 400;">The data is sourced from Statistics New Zealand. </span></p>
-<p> </p>
 <table>
 <tbody>
 <tr>
@@ -1418,10 +1252,8 @@
 </tr>
 </tbody>
 </table>
-<p> </p>
-<h1 id="mcetoc_1g4gib845b2"><strong>TS - Forestry </strong></h1>
+<h2><strong>TS - Forestry </strong></h2>
 <p><span style="font-weight: 400;">The volume of wood removed from different types of forests in New Zealand. The data is sourced from the Ministry for Primary Industries. </span></p>
-<p> </p>
 <table>
 <tbody>
 <tr>
@@ -1458,10 +1290,8 @@
 </tr>
 </tbody>
 </table>
-<p> </p>
-<h1 id="mcetoc_1g4gib845b3"><strong>TS - Imports </strong></h1>
+<h2><strong>TS - Imports </strong></h2>
 <p><span style="font-weight: 400;">Information on imports to and from New Zealand. The data is sourced from Statistics New Zealand. </span></p>
-<p> </p>
 <table>
 <tbody>
 <tr>
@@ -1530,10 +1360,8 @@
 </tr>
 </tbody>
 </table>
-<p> </p>
-<h1 id="mcetoc_1g4gib845b4"><strong>TS - Jobs </strong></h1>
+<h2><strong>TS - Jobs </strong></h2>
 <p><span style="font-weight: 400;">The number of people in employment in New Zealand. The data is sourced from Statistics New Zealand.</span></p>
-<p> </p>
 <table>
 <tbody>
 <tr>
@@ -1570,10 +1398,8 @@
 </tr>
 </tbody>
 </table>
-<p> </p>
-<h1 id="mcetoc_1g4gib845b5"><strong>TS - Penguin </strong></h1>
+<h2><strong>TS - Penguin </strong></h2>
 <p><span style="font-weight: 400;">Data on the number of penguins at the Phillip Island Penguin Parade in Australia. This data was created by a teacher on her return from Philip Island and should not be considered  *real* but is still useful for teaching and learning. </span></p>
-<p> </p>
 <table>
 <tbody>
 <tr>
@@ -1602,11 +1428,9 @@
 </tr>
 </tbody>
 </table>
-<p> </p>
-<h1 id="mcetoc_1g4gib845b6"><strong>TS - Sea Ice </strong></h1>
+<h2><strong>TS - Sea Ice </strong></h2>
 <p><span style="font-weight: 400;">The data is the surface area of sea ice in millions of square kilometres. </span></p>
 <p><span style="font-weight: 400;">The data is sourced from the National Snow and Ice Data Center. </span></p>
-<p> </p>
 <table>
 <tbody>
 <tr>
@@ -1643,13 +1467,10 @@
 </tr>
 </tbody>
 </table>
-<p> </p>
 <p><span style="font-weight: 400;">You can find some more info about the different measurements used to calculate sea ice and  why the numbers in the different versions are different </span><span style="font-weight: 400;">here</span><span style="font-weight: 400;">. </span></p>
 <p><span style="font-weight: 400;">The April 2017 data was sourced from </span><span style="font-weight: 400;">http://www.climate4you.com/SeaIce.htm</span><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Others have been shared with me from various people directly from NSIDC </span></p>
-<p> </p>
-<h1 id="mcetoc_1g4gib845b7"><strong>TS - Sunglasses </strong></h1>
+<h2><strong>TS - Sunglasses </strong></h2>
 <p><span style="font-weight: 400;">Data on the value of sunglasses sold. </span></p>
-<p> </p>
 <table>
 <tbody>
 <tr>
@@ -1678,10 +1499,8 @@
 </tr>
 </tbody>
 </table>
-<p> </p>
-<h1 id="mcetoc_1g4gib845b8"><strong>TS – Temperatures Auckland </strong></h1>
+<h2><strong>TS – Temperatures Auckland </strong></h2>
 <p><span style="font-weight: 400;">Temperature data from the weather station at Auckland Airport sourced from NIWA.</span></p>
-<p> </p>
 <table>
 <tbody>
 <tr>
@@ -1718,11 +1537,9 @@
 </tr>
 </tbody>
 </table>
-<p> </p>
-<h1 id="mcetoc_1g4gib845b9"><strong>TS - Visitors </strong></h1>
+<h2><strong>TS - Visitors </strong></h2>
 <p><span style="font-weight: 400;">The visitors’ dataset is the number of people entering New Zealand on a Visitor Visa from Australia,  China, Japan and the UK. </span></p>
 <p><span style="font-weight: 400;">The data is sourced from Statistics New Zealand. </span></p>
-<p> </p>
 <table>
 <tbody>
 <tr>
@@ -1775,7 +1592,6 @@
 </tr>
 </tbody>
 </table>
-<p> </p>
 <p><span style="font-weight: 400;">The updated version April 2020 also includes: </span></p>
 <table>
 <tbody>
@@ -1829,15 +1645,12 @@
 </tr>
 </tbody>
 </table>
-<p> </p>
 <p><strong>Extra Notes: </strong></p>
 <p><span style="font-weight: 400;">Data is derived from a sample of records and hence may contain sample error. Caution should  be used when using data with low cell values. </span></p>
 <p><span style="font-weight: 400;">Visitor arrivals are overseas residents arriving in New Zealand for a stay of less than 12 months. For arrival series, the country of residence is the country where a person last lived for 12 months or  more (country of last permanent residence). </span></p>
 <p><span style="font-weight: 400;">For detailed metadata about countries used in International Travel and Migration statistics, see DataInfo+ </span><span style="font-weight: 400;">http://ow.ly/Mm9ba</span><span style="font-weight: 400;"> </span></p>
-<p> </p>
-<h1 id="mcetoc_1g4gib845ba"><strong>Temperatures - Auckland </strong></h1>
+<h2><strong>Temperatures - Auckland </strong></h2>
 <p><span style="font-weight: 400;">Temperature data from the weather station at Auckland Airport sourced from NIWA. Each row is  one day.</span></p>
-<p> </p>
 <table>
 <tbody>
 <tr>
