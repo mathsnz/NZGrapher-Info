@@ -3,7 +3,7 @@
     <title>NZGrapher Support</title>
     <link href="https://info.grapher.nz/feed.xml" rel="self" />
     <link href="https://info.grapher.nz" />
-    <updated>2022-08-17T20:17:14+12:00</updated>
+    <updated>2022-08-17T20:19:06+12:00</updated>
     <author>
         <name>Jake Wills</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://info.grapher.nz/function-information/"/>
         <id>https://info.grapher.nz/function-information/</id>
 
-        <updated>2022-08-17T20:17:14+12:00</updated>
+        <updated>2022-08-17T20:19:06+12:00</updated>
             <summary>
                 <![CDATA[
                     This page has details on all of the menu items on NZGrapher. This menu area is about importing data into, and exporting data out of&hellip;
@@ -84,37 +84,14 @@
 <p>Allows you to regroup variables, for example if a variable has 5 groups, you can assign each group to a master group, so you have less overall groups.</p>
 <h3>Create New Variable (Average)</h3>
 <p>Creates a new variable by averaging columns.</p>
-<h2 id="h.p_n6EqLxvSumii_l" class="CDt4Ke zfr3Q JYVBee" tabindex="-1"></h2>
-<h3><strong>Filter Data</strong></h3>
-<p id="h.p_Jjr-NeT4wdVs" class="CDt4Ke zfr3Q">Allows you to filter out numerical data, for example, only look at kiwis that weigh over 2kg.</p>
-<h2 id="h.p_F9B0YiPvumih_l" class="CDt4Ke zfr3Q JYVBee" tabindex="-1"></h2>
-<h3><strong>Add Graphable Index Column</strong></h3>
+<h3>Filter Data</h3>
+<p>Allows you to filter out numerical data, for example, only look at kiwis that weigh over 2kg.</p>
+<h3>Add Graphable Index Column</h3>
 <p>Adds a column to the start of the data that is just the id / index of the point.</p>
-<h3><strong>Convert Time Column</strong></h3>
-<p id="h.p_aBDtiVAExSwy" class="CDt4Ke zfr3Q">Takes standard date / time fields and converts them to Seconds, Minutes, Hours or Days for graphing in scatter graphs or dot plots.</p>
-<h2 id="h.p_uFVGAN2Dumij_l" class="CDt4Ke zfr3Q JYVBee" tabindex="-1"></h2>
-<h3><strong>Encode Time Column</strong></h3>
-<section id="h.p_AKT5VLuiukuY" class="yaqOZd">
-<div class="mYVXT">
-<div class="LS81yb VICjCf j5pSsc db35Fc" tabindex="-1">
-<div class="hJDwNd-AhqUyc-uQSCkd Ft7HRd-AhqUyc-uQSCkd purZT-AhqUyc-II5mzb ZcASvf-AhqUyc-II5mzb pSzOP-AhqUyc-qWD73c Ktthjf-AhqUyc-qWD73c JNdkSc SQVYQc yYI8W HQwdzb">
-<div class="JNdkSc-SmKAyb LkDMRd">
-<div class="qUO6Ue">
-<div class="oKdM2c ZZyype">
-<div id="h.p_t4dwqk7dukui" class="hJDwNd-AhqUyc-uQSCkd Ft7HRd-AhqUyc-uQSCkd jXK9ad D2fZ2 zu5uec wHaque g5GTcb GNzUNc">
-<div class="jXK9ad-SmKAyb">
-<div class="tyJCtd mGzaTb Depvyb baZpAe">
-<p id="h.p_Pr13jWXYxcKa" class="CDt4Ke zfr3Q">Encodes standard date / time fields into formats for use with the NZGrapher time series modules (eg: 2000M01)</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
+<h3>Convert Time Column</h3>
+<p>Takes standard date / time fields and converts them to Seconds, Minutes, Hours or Days for graphing in scatter graphs or dot plots.</p>
+<h3>Encode Time Column</h3>
+<p>Encodes standard date / time fields into formats for use with the NZGrapher time series modules (eg: 2000M01)</p>
 <section id="h.p_GJhjWcayxo0c" class="yaqOZd"></section>
 <h3><strong>Axis Options</strong></h3>
 <p>Allows you to fix some of the axis start and end points as well as some other random settings.</p>
