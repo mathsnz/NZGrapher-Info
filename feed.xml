@@ -3,7 +3,7 @@
     <title>NZGrapher Support</title>
     <link href="https://info.grapher.nz/feed.xml" rel="self" />
     <link href="https://info.grapher.nz" />
-    <updated>2022-08-23T13:51:44+12:00</updated>
+    <updated>2022-08-29T15:34:15+12:00</updated>
     <author>
         <name>Jake Wills</name>
     </author>
@@ -376,7 +376,7 @@
         <link href="https://info.grapher.nz/video-tutorials/"/>
         <id>https://info.grapher.nz/video-tutorials/</id>
 
-        <updated>2022-08-17T20:12:10+12:00</updated>
+        <updated>2022-08-29T15:34:15+12:00</updated>
             <summary>
                 <![CDATA[
                     Please note: the videos on this page are still under development, so are not all here yet. By Feature Intro to NZGrapher Pairs Plots Dot&hellip;
@@ -387,7 +387,9 @@
                 <p>Please note: the videos on this page are still under development, so are not all here yet.</p>
 <h2>By Feature</h2>
 <h3>Intro to NZGrapher</h3>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/QUH7o_LGatQ" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <h3>Pairs Plots</h3>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/7ghapFxHvI4" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <h3>Dot Plots</h3>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/O9pOOBJmQBM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <h3>Scatter Graphs</h3>
