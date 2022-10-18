@@ -3,7 +3,7 @@
     <title>NZGrapher Support</title>
     <link href="https://info.grapher.nz/feed.xml" rel="self" />
     <link href="https://info.grapher.nz" />
-    <updated>2022-08-31T16:00:28+12:00</updated>
+    <updated>2022-10-18T19:11:26+13:00</updated>
     <author>
         <name>Jake Wills</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://info.grapher.nz/function-information/"/>
         <id>https://info.grapher.nz/function-information/</id>
 
-        <updated>2022-08-17T20:19:06+12:00</updated>
+        <updated>2022-10-18T19:11:26+13:00</updated>
             <summary>
                 <![CDATA[
                     This page has details on all of the menu items on NZGrapher. This menu area is about importing data into, and exporting data out of&hellip;
@@ -54,6 +54,8 @@
 <p>This adds a new row to the bottom of the dataset.</p>
 <h3><strong>Delete Last Row</strong></h3>
 <p>This removes the last row from the dataset.</p>
+<h3>Delete Last ___ Rows</h3>
+<p>Deletes the last x number of rows, gives you a prompt to ask how many rows you would like to remove.</p>
 <h3><strong>Delete Specific Row</strong></h3>
 <p>This deletes a specific row from the dataset (useful for removing outliers) by the point ID as shown on the left of the dataset.</p>
 <h2><strong>Column</strong></h2>
