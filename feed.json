@@ -126,14 +126,14 @@
             "id": "https://info.grapher.nz/nzgrapher-usage/",
             "url": "https://info.grapher.nz/nzgrapher-usage/",
             "title": "NZGrapher Usage",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"800\" height=\"486\" title=\"NZGrapher Usage\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNWIwZDgwZmQtNDM5NC00YjMzLTljNmMtZTBmMmRlY2ViYjc2IiwidCI6IjU5MzFiMzg0LWFhNDEtNDI0Ni1iZTMzLWUxOGQwMzg2ZWQzNCJ9&amp;pageName=ReportSection\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "content_html": "<div id=\"min600\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"800\" height=\"486\" title=\"NZGrapher Usage\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNWIwZDgwZmQtNDM5NC00YjMzLTljNmMtZTBmMmRlY2ViYjc2IiwidCI6IjU5MzFiMzg0LWFhNDEtNDI0Ni1iZTMzLWUxOGQwMzg2ZWQzNCJ9&amp;pageName=ReportSection\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></div></div>",
             "author": {
                 "name": "Jake Wills"
             },
             "tags": [
             ],
             "date_published": "2022-06-02T09:26:49+12:00",
-            "date_modified": "2022-08-17T20:20:03+12:00"
+            "date_modified": "2022-10-18T19:41:28+13:00"
         },
         {
             "id": "https://info.grapher.nz/dataset-info/",
