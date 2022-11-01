@@ -3,7 +3,7 @@
     <title>NZGrapher Support</title>
     <link href="https://info.grapher.nz/feed.xml" rel="self" />
     <link href="https://info.grapher.nz" />
-    <updated>2022-10-18T19:41:28+13:00</updated>
+    <updated>2022-11-01T16:41:56+13:00</updated>
     <author>
         <name>Jake Wills</name>
     </author>
@@ -159,7 +159,7 @@
         <link href="https://info.grapher.nz/graph-information/"/>
         <id>https://info.grapher.nz/graph-information/</id>
 
-        <updated>2022-08-23T13:51:44+12:00</updated>
+        <updated>2022-11-01T16:41:56+13:00</updated>
             <summary>
                 <![CDATA[
                     Please note: this page is still under development Switches the colours on the graph to the opposite colours Makes all of the NZGrapher interface in&hellip;
@@ -324,30 +324,41 @@
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 22.8631%;">Numerical 1</td>
-<td style="width: 77.1369%;">This is the variable that is plotted against the x-axis.</td>
+<td style="width: 22.8631%;">Category</td>
+<td style="width: 77.1369%;">This is the variable that become the bars.</td>
 </tr>
 <tr>
-<td style="width: 22.8631%;">Category 1 (Optional)</td>
-<td style="width: 77.1369%;">This is the variable that is used to split the data into different box plots that are plotted on the same axis.</td>
-</tr>
-<tr>
-<td style="width: 22.8631%;">Category 2 (Optional)</td>
-<td style="width: 77.1369%;">This is the variable that splits the graph into multiple graphs side by side.</td>
+<td style="width: 22.8631%;">Split (Optional)</td>
+<td style="width: 77.1369%;">This is the variable that splits the graph into multiple graphs that are stacked on top of each other.</td>
 </tr>
 <tr>
 <td style="width: 22.8631%;">Colour By (Optional)</td>
-<td style="width: 77.1369%;">This is the variable that the dots are coloured by.</td>
+<td style="width: 77.1369%;">This is the variable that the bars are split into and are coloured by.</td>
 </tr>
 </tbody>
 </table>
 <h4>Summaries</h4>
-<p> </p>
+<p>Shows numbers on the bars for the frequency of each group</p>
+<h4>Allow More Categories</h4>
+<p>Allows more categories to be graphed.<br>Note: by default the limit is 10, which doesn't work for the sum of two dice, so this allows more categories to be graphed.</p>
 <h4>Gridlines</h4>
+<p>Draws horizontal gridlines on the graph to more easily match the axis to the bars</p>
 <h4>100% Bar Graph</h4>
+<p>Makes all the bars 100% tall (only useful when you have used the 'Colour By' option or 'Relative Width' option)</p>
 <h4>Relative Freq.</h4>
+<p>Makes all the bars add up to 1, so shows probabilities rather than frequencies</p>
 <h4>Relative Width</h4>
+<p>Makes the bars relative widths based on their frequency (only  useful with the '100% Bar Graph' option)</p>
 <h2>Bar Graph - Summary Data</h2>
+<p>This is identical to the bar graph, except there is an extra option under the data so you can use summary data to draw the bar graph </p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 22.8631%;">Frequency</td>
+<td style="width: 77.1369%;">This is the number of each category.</td>
+</tr>
+</tbody>
+</table>
 <h2>Histogram</h2>
 <h2>Histogram - Summary Data</h2>
 <h2>Pie Chart</h2>
