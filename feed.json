@@ -71,14 +71,14 @@
             "url": "https://info.grapher.nz/nzgrapher-invoice/",
             "title": "NZGrapher Invoice",
             "summary": "The form below allows you to create an invoice that you can pass onto your school for the use of NZGrapher. Once you press the&hellip;",
-            "content_html": "<p id=\"h.p_LFsc8mQl5sKQ\" class=\"CDt4Ke zfr3Q\">The form below allows you to create an invoice that you can pass onto your school for the use of NZGrapher. Once you press the \"make invoice\" button you can download the PDF and send it through to your accounts people to pay... you need to download it and not just send the link. Just sending the link will just send a blank invoice.</p>\n<p id=\"h.p__tsyu3Ad5yz4\" class=\"CDt4Ke zfr3Q\">Any questions please <a class=\"dhtgD aw5Odc\" href=\"https://www.mathsnz.com/contact\">contact me</a>.</p>\n<p class=\"align-right\"><small id=\"h.p_sbWv83WwfQcW\" class=\"CDt4Ke zfr3Q TMjjoe\"><em>Form not showing below? <a class=\"dhtgD aw5Odc\" href=\"https://www.google.com/url?q=https%3A%2F%2Fserver.mathsnz.com%2Finvoicecreator.php&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3meEOFPQp73fwV9TcFH7uy\" target=\"_blank\" rel=\"noopener\">Click here</a>.</em></small></p>\n<div class=\"123\"><div class=\"post__iframe\"><iframe loading=\"lazy\" style=\"width: 100%; border: 0;\" src=\"https://server.mathsnz.com/invoicecreator.php\"></iframe></div></div>",
+            "content_html": "<p id=\"h.p_LFsc8mQl5sKQ\" class=\"CDt4Ke zfr3Q\">The form below allows you to create an invoice that you can pass onto your school for the use of NZGrapher. Once you press the \"make invoice\" button you can download the PDF and send it through to your accounts people to pay... you need to download it and not just send the link. Just sending the link will just send a blank invoice.</p>\n<p id=\"h.p__tsyu3Ad5yz4\" class=\"CDt4Ke zfr3Q\">Any questions please <a class=\"dhtgD aw5Odc\" href=\"https://www.mathsnz.com/contact\">contact me</a>.</p>\n<p class=\"align-right\"><small id=\"h.p_sbWv83WwfQcW\" class=\"CDt4Ke zfr3Q TMjjoe\"><em>Form not showing below? <a class=\"dhtgD aw5Odc\" href=\"https://www.google.com/url?q=https%3A%2F%2Fserver.mathsnz.com%2Finvoicecreator.php&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3meEOFPQp73fwV9TcFH7uy\" target=\"_blank\" rel=\"noopener\">Click here</a>.</em></small></p>\n<div class=\"min600\"><div class=\"post__iframe\"><iframe loading=\"lazy\" style=\"width: 100%; border: 0;\" src=\"https://server.mathsnz.com/invoicecreator.php\"></iframe></div></div>",
             "author": {
                 "name": "Jake Wills"
             },
             "tags": [
             ],
             "date_published": "2022-06-02T19:13:10+12:00",
-            "date_modified": "2022-08-17T20:11:39+12:00"
+            "date_modified": "2022-11-01T16:45:44+13:00"
         },
         {
             "id": "https://info.grapher.nz/contact/",
