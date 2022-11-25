@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>NZGrapher Support</title>
     <link href="https://info.grapher.nz/feed.xml" rel="self" />
     <link href="https://info.grapher.nz" />
-    <updated>2022-11-03T16:37:17+13:00</updated>
+    <updated>2022-11-25T18:56:01+13:00</updated>
     <author>
         <name>Jake Wills</name>
     </author>
@@ -32,9 +32,9 @@
 <p><span style="font-weight: 400;">This allows you to open a file from your device. The file must be a csv. Excel files are not supported, you need to save it as a csv before uploading.</span></p>
 <h3><strong>Import from Clipboard</strong></h3>
 <p><span style="font-weight: 400;">This allows you to import data that you have already copied onto the clipboard. It needs to be copied from a table in a Google Sheet or an Excel Spreadsheet. The first time you try to use this function it will ask for access to the clipboard.</span></p>
-<figure class="post__image"><img loading="lazy"  src="https://info.grapher.nz/media/posts/15/pasted-image-0.png" sizes="(max-width: 768px) 100vw, 768px" srcset="https://info.grapher.nz/media/posts/15/responsive/pasted-image-0-xs.png 300w ,https://info.grapher.nz/media/posts/15/responsive/pasted-image-0-sm.png 480w ,https://info.grapher.nz/media/posts/15/responsive/pasted-image-0-md.png 768w"  alt="" width="337" height="173"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://info.grapher.nz/media/posts/15/pasted-image-0.png" alt="" width="337" height="173" sizes="(max-width: 768px) 100vw, 768px" srcset="https://info.grapher.nz/media/posts/15/responsive/pasted-image-0-xs.png 300w ,https://info.grapher.nz/media/posts/15/responsive/pasted-image-0-sm.png 480w ,https://info.grapher.nz/media/posts/15/responsive/pasted-image-0-md.png 768w"></figure>
 <p><span style="font-weight: 400;">You need to press allow in order for this to work. If you press block, you can change the setting by pressing on the padlock icon and changing the toggle to on.</span></p>
-<figure class="post__image"><img loading="lazy"  src="https://info.grapher.nz/media/posts/15/pasted-image-0-1.png" sizes="(max-width: 768px) 100vw, 768px" srcset="https://info.grapher.nz/media/posts/15/responsive/pasted-image-0-1-xs.png 300w ,https://info.grapher.nz/media/posts/15/responsive/pasted-image-0-1-sm.png 480w ,https://info.grapher.nz/media/posts/15/responsive/pasted-image-0-1-md.png 768w"  alt="" width="335" height="278"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://info.grapher.nz/media/posts/15/pasted-image-0-1.png" alt="" width="335" height="278" sizes="(max-width: 768px) 100vw, 768px" srcset="https://info.grapher.nz/media/posts/15/responsive/pasted-image-0-1-xs.png 300w ,https://info.grapher.nz/media/posts/15/responsive/pasted-image-0-1-sm.png 480w ,https://info.grapher.nz/media/posts/15/responsive/pasted-image-0-1-md.png 768w"></figure>
 <h3><strong>Paste Table (Legacy)</strong></h3>
 <p><span style="font-weight: 400;">Some devices do not support import from clipboard. If this is the case, you can use the paste table (legacy) mode which allows you to paste in a table that you have copied from elsewhere. Note: this is slower than using the Import from Clipboard, so if you can use that, it is better.</span></p>
 <h3><strong>Open Link</strong></h3>
@@ -205,14 +205,14 @@
 <tr>
 <td style="width: 18.5449%;">Rainbow</td>
 <td style="width: 81.4551%;">
-<figure class="post__image"><img loading="lazy"  src="https://info.grapher.nz/media/posts/14/Screen-Shot-2022-08-17-at-7.16.02-PM.jpg" sizes="(max-width: 768px) 100vw, 768px" srcset="https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.16.02-PM-xs.jpg 300w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.16.02-PM-sm.jpg 480w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.16.02-PM-md.jpg 768w"  alt="" width="107" height="21"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://info.grapher.nz/media/posts/14/Screen-Shot-2022-08-17-at-7.16.02-PM.jpg" alt="" width="107" height="21" sizes="(max-width: 768px) 100vw, 768px" srcset="https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.16.02-PM-xs.jpg 300w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.16.02-PM-sm.jpg 480w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.16.02-PM-md.jpg 768w"></figure>
 <p>Goes from Red through to Purple</p>
 </td>
 </tr>
 <tr>
 <td style="width: 18.5449%;">Viridis</td>
 <td style="width: 81.4551%;">
-<figure class="post__image"><img loading="lazy"  src="https://info.grapher.nz/media/posts/14/Screen-Shot-2022-08-17-at-7.16.10-PM.jpg" sizes="(max-width: 768px) 100vw, 768px" srcset="https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.16.10-PM-xs.jpg 300w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.16.10-PM-sm.jpg 480w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.16.10-PM-md.jpg 768w"  alt="" width="106" height="19"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://info.grapher.nz/media/posts/14/Screen-Shot-2022-08-17-at-7.16.10-PM.jpg" alt="" width="106" height="19" sizes="(max-width: 768px) 100vw, 768px" srcset="https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.16.10-PM-xs.jpg 300w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.16.10-PM-sm.jpg 480w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.16.10-PM-md.jpg 768w"></figure>
 <p>Goes from Purple through to Yellow (Colourblind friendly)</p>
 </td>
 </tr>
@@ -267,23 +267,23 @@
 <p>Hides the dots on the dot plot.</p>
 <h4>Shape Outline</h4>
 <p>Draws an overall outline of the shape of the data like this</p>
-<figure class="post__image"><img loading="lazy"  src="https://info.grapher.nz/media/posts/14/Screen-Shot-2022-08-17-at-7.22.58-PM.jpg" sizes="(max-width: 768px) 100vw, 768px" srcset="https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.22.58-PM-xs.jpg 300w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.22.58-PM-sm.jpg 480w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.22.58-PM-md.jpg 768w"  alt="" width="378" height="74"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://info.grapher.nz/media/posts/14/Screen-Shot-2022-08-17-at-7.22.58-PM.jpg" alt="" width="378" height="74" sizes="(max-width: 768px) 100vw, 768px" srcset="https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.22.58-PM-xs.jpg 300w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.22.58-PM-sm.jpg 480w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.22.58-PM-md.jpg 768w"></figure>
 <h4>Violin Graphs</h4>
 <p>Draws an overall outline of the shape of the data in a mirror image along the centre line.<br>The white dot is shown at the median of the data.<br>The box in the middle goes from the lower quartile to the upper quartile<br>The horizontal line in the middle goes from the minimum to the maximum excluding outliers (no more than 1.5 times the IQR less than the LQ / more than the UQ).</p>
-<h4><figure class="post__image"><img loading="lazy"  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://info.grapher.nz/media/posts/14/Screen-Shot-2022-08-17-at-7.24.11-PM.jpg" sizes="(max-width: 768px) 100vw, 768px" srcset="https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.24.11-PM-xs.jpg 300w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.24.11-PM-sm.jpg 480w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.24.11-PM-md.jpg 768w"  alt="" width="387" height="81"></figure></h4>
+<h4><figure class="post__image"><img loading="lazy"  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://info.grapher.nz/media/posts/14/Screen-Shot-2022-08-17-at-7.24.11-PM.jpg" alt="" width="387" height="81" sizes="(max-width: 768px) 100vw, 768px" srcset="https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.24.11-PM-xs.jpg 300w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.24.11-PM-sm.jpg 480w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.24.11-PM-md.jpg 768w"></figure></h4>
 <h4>Bee Swarm</h4>
 <p>Arranges the points randomly above and below the centre line so they look like a swarm of bees</p>
-<figure class="post__image"><img loading="lazy"  src="https://info.grapher.nz/media/posts/14/Screen-Shot-2022-08-17-at-7.29.13-PM.jpg" sizes="(max-width: 768px) 100vw, 768px" srcset="https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.29.13-PM-xs.jpg 300w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.29.13-PM-sm.jpg 480w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.29.13-PM-md.jpg 768w"  alt="" width="616" height="187"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://info.grapher.nz/media/posts/14/Screen-Shot-2022-08-17-at-7.29.13-PM.jpg" alt="" width="616" height="187" sizes="(max-width: 768px) 100vw, 768px" srcset="https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.29.13-PM-xs.jpg 300w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.29.13-PM-sm.jpg 480w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.29.13-PM-md.jpg 768w"></figure>
 <h4>Strip Graph</h4>
 <p>Randomly puts the points within a vertical window, which makes the areas with more points look darker and less points look lighter.</p>
-<figure class="post__image"><img loading="lazy"  src="https://info.grapher.nz/media/posts/14/Screen-Shot-2022-08-17-at-7.30.52-PM.jpg" sizes="(max-width: 768px) 100vw, 768px" srcset="https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.30.52-PM-xs.jpg 300w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.30.52-PM-sm.jpg 480w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.30.52-PM-md.jpg 768w"  alt="" width="625" height="107"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://info.grapher.nz/media/posts/14/Screen-Shot-2022-08-17-at-7.30.52-PM.jpg" alt="" width="625" height="107" sizes="(max-width: 768px) 100vw, 768px" srcset="https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.30.52-PM-xs.jpg 300w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.30.52-PM-sm.jpg 480w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.30.52-PM-md.jpg 768w"></figure>
 <h4>Box (No Whisker)</h4>
 <p>Just plots the middle box of a box-and whisker graph</p>
 <h4>Box (No Outlier)</h4>
 <p>Plots a box and whisker graph that doesn't extend to the outliers (no more than 1.5 times the IQR less than the LQ / more than the UQ).</p>
 <h4>DBM &amp; OVS</h4>
 <p>Displays the Difference Between Medians (DBM) and the Overall Visual Spread (OVS) when there are two groups of data. </p>
-<figure class="post__image"><img loading="lazy"  src="https://info.grapher.nz/media/posts/14/Screen-Shot-2022-08-17-at-7.35.09-PM.jpg" sizes="(max-width: 768px) 100vw, 768px" srcset="https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.35.09-PM-xs.jpg 300w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.35.09-PM-sm.jpg 480w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.35.09-PM-md.jpg 768w"  alt="" width="569" height="147"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://info.grapher.nz/media/posts/14/Screen-Shot-2022-08-17-at-7.35.09-PM.jpg" alt="" width="569" height="147" sizes="(max-width: 768px) 100vw, 768px" srcset="https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.35.09-PM-xs.jpg 300w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.35.09-PM-sm.jpg 480w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.35.09-PM-md.jpg 768w"></figure>
 <p>This allows students to visually see if the DBM is more than</p>
 <ul>
 <li>1/3 of the OVS for samples of about 30</li>
@@ -295,13 +295,13 @@
 <p>Displays the numbers at each end the DBM and OVS lines.</p>
 <h4>½ ¾ Rule</h4>
 <p>This allows you to highlight either the bottom 1/2 and top 3/4 or the bottom 3/4 and the top 1/2 for each of the groups (when you have two groups) to make it visually easy to see if we can make a call at Curriculum Level 5.</p>
-<figure class="post__image"><img loading="lazy"  src="https://info.grapher.nz/media/posts/14/Screen-Shot-2022-08-17-at-7.45.00-PM.jpg" sizes="(max-width: 768px) 100vw, 768px" srcset="https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.45.00-PM-xs.jpg 300w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.45.00-PM-sm.jpg 480w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.45.00-PM-md.jpg 768w"  alt="" width="546" height="128"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://info.grapher.nz/media/posts/14/Screen-Shot-2022-08-17-at-7.45.00-PM.jpg" alt="" width="546" height="128" sizes="(max-width: 768px) 100vw, 768px" srcset="https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.45.00-PM-xs.jpg 300w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.45.00-PM-sm.jpg 480w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.45.00-PM-md.jpg 768w"></figure>
 <p>Note: This should only be used for sample sizes of between 20 and 40 in each group. Read more on this at <a href="https://new.censusatschool.org.nz/wp-content/uploads/2012/09/Shifts-diagram.11.02.041.pdf">Census at School</a></p>
 <h4>Informal C-I</h4>
 <p>Draws the informal confidence intervals for the median as a blue line on the graph to help students make the call at Curriculum Level 7.</p>
-<figure class="post__image"><img loading="lazy"  src="https://info.grapher.nz/media/posts/14/Screen-Shot-2022-08-17-at-7.50.21-PM.jpg" sizes="(max-width: 768px) 100vw, 768px" srcset="https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.50.21-PM-xs.jpg 300w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.50.21-PM-sm.jpg 480w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.50.21-PM-md.jpg 768w"  alt="" width="552" height="120"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://info.grapher.nz/media/posts/14/Screen-Shot-2022-08-17-at-7.50.21-PM.jpg" alt="" width="552" height="120" sizes="(max-width: 768px) 100vw, 768px" srcset="https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.50.21-PM-xs.jpg 300w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.50.21-PM-sm.jpg 480w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.50.21-PM-md.jpg 768w"></figure>
 <p>These are based on:</p>
-<figure class="post__image"><img loading="lazy"  src="https://info.grapher.nz/media/posts/14/Screen-Shot-2022-08-17-at-7.46.10-PM.jpg" sizes="(max-width: 768px) 100vw, 768px" srcset="https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.46.10-PM-xs.jpg 300w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.46.10-PM-sm.jpg 480w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.46.10-PM-md.jpg 768w"  alt="" width="201" height="43"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://info.grapher.nz/media/posts/14/Screen-Shot-2022-08-17-at-7.46.10-PM.jpg" alt="" width="201" height="43" sizes="(max-width: 768px) 100vw, 768px" srcset="https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.46.10-PM-xs.jpg 300w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.46.10-PM-sm.jpg 480w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.46.10-PM-md.jpg 768w"></figure>
 <p>Read more on this at <a href="https://new.censusatschool.org.nz/wp-content/uploads/2012/09/Shifts-diagram.11.02.041.pdf">Census at School</a></p>
 <h4>C-I Limits</h4>
 <p>Displays the numbers at each end the Informal C-I lines.</p>
@@ -464,16 +464,15 @@
         <link href="https://info.grapher.nz/nzgrapher-invoice/"/>
         <id>https://info.grapher.nz/nzgrapher-invoice/</id>
 
-        <updated>2022-11-01T16:45:44+13:00</updated>
+        <updated>2022-11-25T18:56:01+13:00</updated>
             <summary>
                 <![CDATA[
-                    The form below allows you to create an invoice that you can pass onto your school for the use of NZGrapher. Once you press the&hellip;
+                    The form below allows you to create an invoice that you can pass onto your school for the use of NZGrapher. Any questions please contact&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p id="h.p_LFsc8mQl5sKQ" class="CDt4Ke zfr3Q">The form below allows you to create an invoice that you can pass onto your school for the use of NZGrapher. Once you press the "make invoice" button you can download the PDF and send it through to your accounts people to pay... you need to download it and not just send the link. Just sending the link will just send a blank invoice.</p>
-<p id="h.p__tsyu3Ad5yz4" class="CDt4Ke zfr3Q">Any questions please <a class="dhtgD aw5Odc" href="https://www.mathsnz.com/contact">contact me</a>.</p>
+                <p id="h.p_LFsc8mQl5sKQ" class="CDt4Ke zfr3Q">The form below allows you to create an invoice that you can pass onto your school for the use of NZGrapher. Any questions please <a class="dhtgD aw5Odc" href="https://www.mathsnz.com/contact">contact me</a>.</p>
 <p class="align-right"><small id="h.p_sbWv83WwfQcW" class="CDt4Ke zfr3Q TMjjoe"><em>Form not showing below? <a class="dhtgD aw5Odc" href="https://www.google.com/url?q=https%3A%2F%2Fserver.mathsnz.com%2Finvoicecreator.php&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3meEOFPQp73fwV9TcFH7uy" target="_blank" rel="noopener">Click here</a>.</em></small></p>
 <div class="min600"><div class="post__iframe"><iframe loading="lazy" style="width: 100%; border: 0;" src="https://server.mathsnz.com/invoicecreator.php"></iframe></div></div>
             ]]>
@@ -522,13 +521,13 @@
 <p id="h.p_RPDioSoD4wsh" class="CDt4Ke zfr3Q">These buttons use PayPal... but even if you don't have a PayPal account you can still use these buttons and use your credit card.</p>
 <p id="h.p_SVknEIx45dMJ" class="CDt4Ke zfr3Q">If you need an invoice please <a href="https://info.grapher.nz/nzgrapher-invoice/">click here</a>. Any questions please <a href="https://info.grapher.nz/contact/">contact me</a>.</p>
 <p class="align-left" dir="ltr"><strong>One Off Donation or Custom Monthly Amount </strong></p>
-<form style="display: inline-block; margin-right: 30px;" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank"><input name="cmd" type="hidden" value="_s-xclick"> <input name="hosted_button_id" type="hidden" value="VZ2MNV3YGV5QL"> <input alt="PayPal - The safer, easier way to pay online!" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" type="image"> <img loading="lazy" style="display: none !important;" hidden="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" data-is-external-image="true"  alt="" width="1" height="1" border="0"></form>
+<form style="display: inline-block; margin-right: 30px;" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank"><input name="cmd" type="hidden" value="_s-xclick"> <input name="hosted_button_id" type="hidden" value="VZ2MNV3YGV5QL"> <input alt="PayPal - The safer, easier way to pay online!" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" type="image"> <img loading="lazy" style="display: none !important;" hidden="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" data-is-external-image="true"></form>
 <p class="align-left" dir="ltr"><strong>Monthly Donation </strong></p>
 <form style="display: inline-block;" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank"><input name="cmd" type="hidden" value="_s-xclick"> <input name="hosted_button_id" type="hidden" value="8GLP5UV6V4RWS"> <input name="on0" type="hidden" value=""><select style="margin-bottom: 10px;" name="os0">
 <option value="$5 Per Month">$5 Per Month : $5.00 NZD - monthly</option>
 <option value="$10 Per Month">$10 Per Month : $10.00 NZD - monthly</option>
 <option value="$20 Per Month">$20 Per Month : $20.00 NZD - monthly</option>
-</select><input name="currency_code" type="hidden" value="NZD"><br><input alt="PayPal - The safer, easier way to pay online!" src="https://www.paypalobjects.com/en_US/i/btn/btn_subscribeCC_LG.gif" type="image"> <img loading="lazy" style="display: none !important;" hidden="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" data-is-external-image="true"  alt="" width="1" height="1" border="0"></form>
+</select><input name="currency_code" type="hidden" value="NZD"><br><input alt="PayPal - The safer, easier way to pay online!" src="https://www.paypalobjects.com/en_US/i/btn/btn_subscribeCC_LG.gif" type="image"> <img loading="lazy" style="display: none !important;" hidden="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" data-is-external-image="true"></form>
             ]]>
         </content>
     </entry>
