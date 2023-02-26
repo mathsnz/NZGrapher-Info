@@ -3,7 +3,7 @@
     <title>NZGrapher Support</title>
     <link href="https://info.grapher.nz/feed.xml" rel="self" />
     <link href="https://info.grapher.nz" />
-    <updated>2022-11-25T18:56:01+13:00</updated>
+    <updated>2023-02-27T12:49:24+13:00</updated>
     <author>
         <name>Jake Wills</name>
     </author>
@@ -597,7 +597,7 @@
         <link href="https://info.grapher.nz/dataset-info/"/>
         <id>https://info.grapher.nz/dataset-info/</id>
 
-        <updated>2022-08-17T20:10:36+12:00</updated>
+        <updated>2023-02-27T12:49:24+13:00</updated>
             <summary>
                 <![CDATA[
                     This is a list of what all the variables are and where the dataset is from for the built in datasets on NZGrapher. You can&hellip;
@@ -1453,8 +1453,9 @@
 </tr>
 </tbody>
 </table>
-<p><span style="font-weight: 400;">You can find some more info about the different measurements used to calculate sea ice and  why the numbers in the different versions are different </span><span style="font-weight: 400;">here</span><span style="font-weight: 400;">. </span></p>
-<p><span style="font-weight: 400;">The April 2017 data was sourced from </span><span style="font-weight: 400;">http://www.climate4you.com/SeaIce.htm</span><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Others have been shared with me from various people directly from NSIDC </span></p>
+<p><span style="font-weight: 400;">You can find some more info about the different measurements used to calculate sea ice and why the numbers in the different versions are different </span><span style="font-weight: 400;">here</span><span style="font-weight: 400;">. </span></p>
+<p>The main datasets folder now only contains the most recent sea ice dataset. To access historical ones go to: <a href="https://grapher.nz/?folder=seaice">https://grapher.nz/?folder=seaice</a></p>
+<p><span style="font-weight: 400;">The April 2017 data was sourced from </span><span style="font-weight: 400;"><a href="http://www.climate4you.com/SeaIce.htm">http://www.climate4you.com/SeaIce.htm</a></span><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Others have been shared with me from various people directly from NSIDC.</span></p>
 <h2><strong>TS - Sunglasses </strong></h2>
 <p><span style="font-weight: 400;">Data on the value of sunglasses sold. </span></p>
 <table>

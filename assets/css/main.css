@@ -399,7 +399,8 @@ small {
   font-size: 0.8789062495rem;
 }
 
-hr {
+hr,
+.separator {
   background: none;
   border: none;
   height: auto;
@@ -407,13 +408,39 @@ hr {
   max-width: none;
   text-align: center;
 }
-hr::before {
+hr::before,
+.separator::before {
   content: "···";
   color: var(--headings-color);
-  font-size: 1.2945382732rem;
+  font-size: 1.4728968807rem;
   font-weight: var(--font-weight-bold);
   letter-spacing: 1.1377777785rem;
   padding-left: 1.1377777785rem;
+}
+
+.separator--dot::before {
+  content: "·";
+  color: var(--headings-color);
+  font-size: 1.4728968807rem;
+  font-weight: var(--font-weight-bold);
+  letter-spacing: 1.1377777785rem;
+  padding-left: 1.1377777785rem;
+}
+.separator--long-line {
+  position: relative;
+}
+.separator--long-line::before {
+  content: "";
+  height: 1.2136296308rem;
+}
+.separator--long-line::after {
+  border-top: 1px solid var(--gray-3);
+  content: "";
+  height: 1px;
+  position: absolute;
+  width: 100%;
+  top: 50%;
+  left: 0;
 }
 
 .btn, [type=button],
