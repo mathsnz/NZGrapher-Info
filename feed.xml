@@ -3,7 +3,7 @@
     <title>NZGrapher Support</title>
     <link href="https://info.grapher.nz/feed.xml" rel="self" />
     <link href="https://info.grapher.nz" />
-    <updated>2023-02-27T12:49:24+13:00</updated>
+    <updated>2023-05-02T11:57:27+12:00</updated>
     <author>
         <name>Jake Wills</name>
     </author>
@@ -159,7 +159,7 @@
         <link href="https://info.grapher.nz/graph-information/"/>
         <id>https://info.grapher.nz/graph-information/</id>
 
-        <updated>2022-11-01T16:41:56+13:00</updated>
+        <updated>2023-05-02T11:57:27+12:00</updated>
             <summary>
                 <![CDATA[
                     Please note: this page is still under development Switches the colours on the graph to the opposite colours Makes all of the NZGrapher interface in&hellip;
@@ -360,7 +360,51 @@
 </tbody>
 </table>
 <h2>Histogram</h2>
+<h4>Data Options</h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 22.8631%;">Numerical</td>
+<td style="width: 77.1369%;">This is the data that determines the buckets used on the graph.</td>
+</tr>
+<tr>
+<td style="width: 22.8631%;">Split (Optional)</td>
+<td style="width: 77.1369%;">This is the variable that splits the graph into multiple graphs that are stacked on top of each other.</td>
+</tr>
+</tbody>
+</table>
+<h4>Summaries</h4>
+<p>Shows numbers next to the histograms with summary statistics like mean and median.</p>
+<h4>High Box Plot</h4>
+<p>Draws a box and whisker graph above the histogram</p>
+<h4>Gridlines</h4>
+<p>Draws horizontal and vertical gridlines on the graph to more easily match the axis to the bars</p>
+<h4>Relative Freq.</h4>
+<p>Changes the scale on the left from frequency to the proportion of the data that is in each bucket.</p>
+<h4>Normal Dist.</h4>
+<p>Overlays a normal distribution onto the histogram so it can be easily compared.</p>
+<h4>Rectangular Dist.</h4>
+<p>Overlays a rectangular distribution onto the histogram so it can be easily compared.</p>
+<h4>Triangular Dist.</h4>
+<p>Overlays a triangular distribution onto the histogram so it can be easily compared.</p>
+<h4>Poisson Dist.</h4>
+<p>Overlays a poisson distribution onto the histogram so it can be easily compared.</p>
+<h4>Binomial Dist.</h4>
+<p>Overlays a binomial distribution onto the histogram so it can be easily compared.</p>
+<h4>Intervals Slider</h4>
+<p>Adjusts the number of intervals displayed in the histogram</p>
+<h2></h2>
 <h2>Histogram - Summary Data</h2>
+<p>This is identical to the histogram, except there is an extra option under the data so you can use summary data to draw the bar graph </p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 22.8631%;">Frequency</td>
+<td style="width: 77.1369%;">This is the number of each category.</td>
+</tr>
+</tbody>
+</table>
+<h2></h2>
 <h2>Pie Chart</h2>
 <h2>Scatter Graph</h2>
 <h2>Grid Density Plot</h2>
@@ -389,7 +433,7 @@
         <link href="https://info.grapher.nz/video-tutorials/"/>
         <id>https://info.grapher.nz/video-tutorials/</id>
 
-        <updated>2022-11-03T16:37:17+13:00</updated>
+        <updated>2023-05-02T11:51:17+12:00</updated>
             <summary>
                 <![CDATA[
                     Please note: the videos on this page are still under development, so are not all here yet. By Feature Intro to NZGrapher Pairs Plots Dot&hellip;
@@ -408,6 +452,7 @@
 <h3>Bar Graph</h3>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/Ghfl8LmW2ho" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <h3>Histogram</h3>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/lzmF9_Fw17g" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <h3>Scatter Graphs</h3>
 <h3>Residuals Plot</h3>
 <h3>Bootstrap Confidence Intervals</h3>
