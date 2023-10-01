@@ -3,7 +3,7 @@
     <title>NZGrapher Support</title>
     <link href="https://info.grapher.nz/feed.xml" rel="self" />
     <link href="https://info.grapher.nz" />
-    <updated>2023-05-15T16:01:40+12:00</updated>
+    <updated>2023-10-01T17:02:59+13:00</updated>
     <author>
         <name>Jake Wills</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://info.grapher.nz/function-information/"/>
         <id>https://info.grapher.nz/function-information/</id>
 
-        <updated>2022-10-18T19:11:26+13:00</updated>
+        <updated>2023-09-30T14:03:37+13:00</updated>
             <summary>
                 <![CDATA[
                     This page has details on all of the menu items on NZGrapher. This menu area is about importing data into, and exporting data out of&hellip;
@@ -69,6 +69,9 @@
 <h3><strong>Sample</strong></h3>
 <p id="h.p_FldXwDIqunmS" class="CDt4Ke zfr3Q">Allows you to do either simple random samples, or stratified random samples.</p>
 <p id="h.p_lNkPwPeGu0_J" class="CDt4Ke zfr3Q">This is also useful if you want to remove a particular section of the data... for example in the kiwi data set if you just wanted to look at GS and NiBr, you would set these to 163 and 275 respectively, and leave all the others blank and press sample.</p>
+<p>The "Fill Numbers" button fills the categories with the total number in each group to make removing single groups easier.</p>
+<h3><strong>View Group(s)</strong></h3>
+<p id="h.p_FldXwDIqunmS" class="CDt4Ke zfr3Q">Allows you to easily view single or multiple groups in a particular category by ticking or unticking checkboxes.</p>
 <h3><strong>Sort</strong></h3>
 <p id="h.p_WlZ32hggusy7" class="CDt4Ke zfr3Q">Sorts the data table by a particular variable. This doesn't affect displays.</p>
 <h3>Reorder Variable</h3>
@@ -433,7 +436,7 @@
         <link href="https://info.grapher.nz/video-tutorials/"/>
         <id>https://info.grapher.nz/video-tutorials/</id>
 
-        <updated>2023-05-15T16:01:40+12:00</updated>
+        <updated>2023-10-01T17:02:59+13:00</updated>
             <summary>
                 <![CDATA[
                     Please note: the videos on this page are still under development, so are not all here yet. By Feature Intro to NZGrapher Pairs Plots Dot&hellip;
@@ -456,7 +459,9 @@
 <h3>Scatter Graphs</h3>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/-IpiGXklxzw" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <h3>Residuals Plot</h3>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/lt1z-p0LVI0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <h3>Bootstrap Confidence Intervals</h3>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/AA21WbJkobE" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <h3>Experimental Data</h3>
 <h3>Paired Experimental Data (Including Arrows Graphs)</h3>
 <h3>Time Series Graphs</h3>
