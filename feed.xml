@@ -3,7 +3,7 @@
     <title>NZGrapher Support</title>
     <link href="https://info.grapher.nz/feed.xml" rel="self" />
     <link href="https://info.grapher.nz" />
-    <updated>2023-10-01T17:23:23+13:00</updated>
+    <updated>2023-10-05T11:17:26+13:00</updated>
     <author>
         <name>Jake Wills</name>
     </author>
@@ -436,7 +436,7 @@
         <link href="https://info.grapher.nz/video-tutorials/"/>
         <id>https://info.grapher.nz/video-tutorials/</id>
 
-        <updated>2023-10-01T17:23:23+13:00</updated>
+        <updated>2023-10-05T11:17:26+13:00</updated>
             <summary>
                 <![CDATA[
                     Please note: the videos on this page are still under development, so are not all here yet. By Feature Intro to NZGrapher Pairs Plots Dot&hellip;
@@ -459,9 +459,9 @@
 <h3>Scatter Graphs</h3>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/-IpiGXklxzw" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <h3>Residuals Plot</h3>
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/qoyeFlAsGns" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-<h3>Bootstrap Confidence Intervals</h3>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/I-arAUoGxjY" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<h3>Bootstrap Confidence Intervals</h3>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/qoyeFlAsGns" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <h3>Experimental Data</h3>
 <h3>Paired Experimental Data (Including Arrows Graphs)</h3>
 <h3>Time Series Graphs</h3>
