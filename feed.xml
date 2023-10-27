@@ -3,7 +3,7 @@
     <title>NZGrapher Support</title>
     <link href="https://info.grapher.nz/feed.xml" rel="self" />
     <link href="https://info.grapher.nz" />
-    <updated>2023-10-05T11:17:26+13:00</updated>
+    <updated>2023-10-27T16:44:38+13:00</updated>
     <author>
         <name>Jake Wills</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://info.grapher.nz/function-information/"/>
         <id>https://info.grapher.nz/function-information/</id>
 
-        <updated>2023-09-30T14:03:37+13:00</updated>
+        <updated>2023-10-27T16:32:28+13:00</updated>
             <summary>
                 <![CDATA[
                     This page has details on all of the menu items on NZGrapher. This menu area is about importing data into, and exporting data out of&hellip;
@@ -37,6 +37,10 @@
 <figure class="post__image"><img loading="lazy"  src="https://info.grapher.nz/media/posts/15/pasted-image-0-1.png" sizes="(max-width: 768px) 100vw, 768px" srcset="https://info.grapher.nz/media/posts/15/responsive/pasted-image-0-1-xs.png 300w ,https://info.grapher.nz/media/posts/15/responsive/pasted-image-0-1-sm.png 480w ,https://info.grapher.nz/media/posts/15/responsive/pasted-image-0-1-md.png 768w"  alt="" width="335" height="278"></figure>
 <h3><strong>Paste Table (Legacy)</strong></h3>
 <p><span style="font-weight: 400;">Some devices do not support import from clipboard. If this is the case, you can use the paste table (legacy) mode which allows you to paste in a table that you have copied from elsewhere. Note: this is slower than using the Import from Clipboard, so if you can use that, it is better.</span></p>
+<h3><strong>Probability Simulation</strong></h3>
+<p>Allows you to run probability simulations in NZGrapher with multiple events. See <a href="https://info.grapher.nz/video-tutorials/">video tutorials</a> for a guide on how to use.</p>
+<h3><strong>Event Recorder</strong></h3>
+<p>Allows you to record events as they happen (great for recording experiments) events. See <a href="https://info.grapher.nz/video-tutorials/">video tutorials</a> for a guide on how to use.</p>
 <h3><strong>Open Link</strong></h3>
 <p><span style="font-weight: 400;">This allows you to link to a csv file that is hosted on the internet.</span></p>
 <h3><strong>Select and Copy Data Table</strong></h3>
@@ -162,7 +166,7 @@
         <link href="https://info.grapher.nz/graph-information/"/>
         <id>https://info.grapher.nz/graph-information/</id>
 
-        <updated>2023-05-02T11:57:27+12:00</updated>
+        <updated>2023-10-27T16:30:48+13:00</updated>
             <summary>
                 <![CDATA[
                     Please note: this page is still under development Switches the colours on the graph to the opposite colours Makes all of the NZGrapher interface in&hellip;
@@ -412,6 +416,7 @@
 <h2>Scatter Graph</h2>
 <h2>Grid Density Plot</h2>
 <h2>Residuals Plot</h2>
+<h2>Running Proportion</h2>
 <h2>Bootstrap Single Variable</h2>
 <h2>Bootstrap Confidence Interval - (Median or Mean)</h2>
 <h2>Re-Randomisation - (Median or Mean)</h2>
@@ -436,7 +441,7 @@
         <link href="https://info.grapher.nz/video-tutorials/"/>
         <id>https://info.grapher.nz/video-tutorials/</id>
 
-        <updated>2023-10-05T11:17:26+13:00</updated>
+        <updated>2023-10-27T16:44:38+13:00</updated>
             <summary>
                 <![CDATA[
                     Please note: the videos on this page are still under development, so are not all here yet. By Feature Intro to NZGrapher Pairs Plots Dot&hellip;
@@ -460,6 +465,8 @@
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/-IpiGXklxzw" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <h3>Residuals Plot</h3>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/I-arAUoGxjY" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<h3>Running Proportion</h3>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/JGpzK0YBOsg" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <h3>Bootstrap Confidence Intervals</h3>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/qoyeFlAsGns" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <h3>Experimental Data</h3>
@@ -468,9 +475,14 @@
 <h3>Sampling a Dataset</h3>
 <h3>Adding a Custom Line</h3>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/2kogDySwR_k" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<h3>Probability Simulation</h3>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/sNT6CCcjuqM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<h3>Event Recorder</h3>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/r9npjB-KttM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <h2>By NCEA Standard</h2>
-<h3>91035 (1.10) Multivariate Data</h3>
-<h3>91036 (1.11) Bivariate Data</h3>
+<h3>91944 (1.1 Explore data using a statistical enquiry process)</h3>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/8cQC_6BFBJ4" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/ntl-XGZtuBQ" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <h3>91264 (2.9) Statistical Inference</h3>
 <h3>91265 (2.10) Statistical Experiments</h3>
 <h3>91580 (3.8) Time Series</h3>
