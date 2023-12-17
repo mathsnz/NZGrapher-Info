@@ -3,7 +3,7 @@
     <title>NZGrapher Support</title>
     <link href="https://info.grapher.nz/feed.xml" rel="self" />
     <link href="https://info.grapher.nz" />
-    <updated>2023-12-11T18:05:47+13:00</updated>
+    <updated>2023-12-17T13:26:45+13:00</updated>
     <author>
         <name>Jake Wills</name>
     </author>
@@ -441,7 +441,7 @@
         <link href="https://info.grapher.nz/video-tutorials/"/>
         <id>https://info.grapher.nz/video-tutorials/</id>
 
-        <updated>2023-12-11T18:05:47+13:00</updated>
+        <updated>2023-12-17T13:26:45+13:00</updated>
             <summary>
                 <![CDATA[
                     Please note: the videos on this page are still under development, so are not all here yet. Lesson ideas (videos): Long Run Probability Real Life&hellip;
@@ -482,6 +482,7 @@
 <h2>By NCEA Standard</h2>
 <h3>91944 (1.1 Explore data using a statistical enquiry process)</h3>
 <h4><em>Relationship investigation</em></h4>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/9dOZydmF5uE" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <h4><em>Comparison investigation</em></h4>
 <h4><em>Time series investigation</em></h4>
 <h4><em>Experimental probability investigation</em></h4>
