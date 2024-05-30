@@ -3,7 +3,7 @@
     <title>NZGrapher Support</title>
     <link href="https://info.grapher.nz/feed.xml" rel="self" />
     <link href="https://info.grapher.nz" />
-    <updated>2024-03-27T08:03:03+13:00</updated>
+    <updated>2024-05-30T16:39:41+12:00</updated>
     <author>
         <name>Jake Wills</name>
     </author>
@@ -673,7 +673,7 @@
         <link href="https://info.grapher.nz/dataset-info/"/>
         <id>https://info.grapher.nz/dataset-info/</id>
 
-        <updated>2024-03-27T08:03:03+13:00</updated>
+        <updated>2024-05-30T16:39:41+12:00</updated>
             <summary>
                 <![CDATA[
                     This is a list of what all the variables are and where the dataset is from for the built in datasets on NZGrapher. You can&hellip;
@@ -968,6 +968,7 @@
 </td>
 <td>
 <p><span style="font-weight: 400;">The weight of the kiwi bird in kg</span></p>
+<p>Note: while this variable is called 'Weight', it is actually mass, but I have left it called Weight in the dataset due to the number of related resources based on this dataset.</p>
 </td>
 </tr>
 <tr>
