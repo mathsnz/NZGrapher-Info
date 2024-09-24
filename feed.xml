@@ -3,7 +3,7 @@
     <title>NZGrapher Support</title>
     <link href="https://info.grapher.nz/feed.xml" rel="self" />
     <link href="https://info.grapher.nz" />
-    <updated>2024-05-30T16:39:41+12:00</updated>
+    <updated>2024-09-24T12:22:03+12:00</updated>
     <author>
         <name>Jake Wills</name>
     </author>
@@ -473,6 +473,7 @@
 <h3>Paired Experimental Data (Including Arrows Graphs)</h3>
 <h3>Time Series Graphs</h3>
 <h3>Sampling a Dataset</h3>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/3tfq52QZa9c" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <h3>Adding a Custom Line</h3>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/2kogDySwR_k" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <h3>Probability Simulation</h3>
@@ -497,6 +498,7 @@
 <li><a href="https://www.youtube.com/watch?v=ntl-XGZtuBQ">Real Life Events - Probability</a> </li>
 </ul>
 <h3>91264 (2.9) Statistical Inference</h3>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/M1_QMlrNdho" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <h3>91265 (2.10) Statistical Experiments</h3>
 <h3>91580 (3.8) Time Series</h3>
 <h3>91581 (3.9) Bivariate Data</h3>
