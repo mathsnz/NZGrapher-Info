@@ -3,7 +3,7 @@
     <title>NZGrapher Support</title>
     <link href="https://info.grapher.nz/feed.xml" rel="self" />
     <link href="https://info.grapher.nz" />
-    <updated>2024-09-24T12:22:03+12:00</updated>
+    <updated>2024-10-03T08:44:37+13:00</updated>
     <author>
         <name>Jake Wills</name>
     </author>
@@ -552,7 +552,7 @@
             <![CDATA[
                 <p id="h.p_LFsc8mQl5sKQ" class="CDt4Ke zfr3Q">The form below allows you to create an invoice that you can pass onto your school for the use of NZGrapher. Any questions please <a class="dhtgD aw5Odc" href="https://www.mathsnz.com/contact">contact me</a>.</p>
 <p class="align-right"><small id="h.p_sbWv83WwfQcW" class="CDt4Ke zfr3Q TMjjoe"><em>Form not showing below? <a class="dhtgD aw5Odc" href="https://www.google.com/url?q=https%3A%2F%2Fserver.mathsnz.com%2Finvoicecreator.php&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3meEOFPQp73fwV9TcFH7uy" target="_blank" rel="noopener">Click here</a>.</em></small></p>
-<div class="min600"><div class="post__iframe"><iframe loading="lazy" style="width: 100%; border: 0;" src="https://server.mathsnz.com/invoicecreator.php"></iframe></div></div>
+<div class="min700"><div class="post__iframe"><iframe loading="lazy" style="width: 100%; border: 0;" src="https://server.mathsnz.com/invoicecreator.php"></iframe></div></div>
             ]]>
         </content>
     </entry>

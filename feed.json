@@ -71,14 +71,14 @@
             "url": "https://info.grapher.nz/nzgrapher-invoice/",
             "title": "NZGrapher Invoice",
             "summary": "The form below allows you to create an invoice that you can pass onto your school for the use of NZGrapher. Any questions please contact&hellip;",
-            "content_html": "<p id=\"h.p_LFsc8mQl5sKQ\" class=\"CDt4Ke zfr3Q\">The form below allows you to create an invoice that you can pass onto your school for the use of NZGrapher. Any questions please <a class=\"dhtgD aw5Odc\" href=\"https://www.mathsnz.com/contact\">contact me</a>.</p>\n<p class=\"align-right\"><small id=\"h.p_sbWv83WwfQcW\" class=\"CDt4Ke zfr3Q TMjjoe\"><em>Form not showing below? <a class=\"dhtgD aw5Odc\" href=\"https://www.google.com/url?q=https%3A%2F%2Fserver.mathsnz.com%2Finvoicecreator.php&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3meEOFPQp73fwV9TcFH7uy\" target=\"_blank\" rel=\"noopener\">Click here</a>.</em></small></p>\n<div class=\"min600\"><div class=\"post__iframe\"><iframe loading=\"lazy\" style=\"width: 100%; border: 0;\" src=\"https://server.mathsnz.com/invoicecreator.php\"></iframe></div></div>",
+            "content_html": "<p id=\"h.p_LFsc8mQl5sKQ\" class=\"CDt4Ke zfr3Q\">The form below allows you to create an invoice that you can pass onto your school for the use of NZGrapher. Any questions please <a class=\"dhtgD aw5Odc\" href=\"https://www.mathsnz.com/contact\">contact me</a>.</p>\n<p class=\"align-right\"><small id=\"h.p_sbWv83WwfQcW\" class=\"CDt4Ke zfr3Q TMjjoe\"><em>Form not showing below? <a class=\"dhtgD aw5Odc\" href=\"https://www.google.com/url?q=https%3A%2F%2Fserver.mathsnz.com%2Finvoicecreator.php&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3meEOFPQp73fwV9TcFH7uy\" target=\"_blank\" rel=\"noopener\">Click here</a>.</em></small></p>\n<div class=\"min700\"><div class=\"post__iframe\"><iframe loading=\"lazy\" style=\"width: 100%; border: 0;\" src=\"https://server.mathsnz.com/invoicecreator.php\"></iframe></div></div>",
             "author": {
                 "name": "Jake Wills"
             },
             "tags": [
             ],
             "date_published": "2022-06-02T19:13:10+12:00",
-            "date_modified": "2022-11-25T18:56:01+13:00"
+            "date_modified": "2024-10-03T08:44:37+13:00"
         },
         {
             "id": "https://info.grapher.nz/contact/",
