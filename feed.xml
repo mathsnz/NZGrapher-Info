@@ -3,7 +3,7 @@
     <title>NZGrapher Support</title>
     <link href="https://info.grapher.nz/feed.xml" rel="self" />
     <link href="https://info.grapher.nz" />
-    <updated>2024-10-03T08:44:37+13:00</updated>
+    <updated>2025-02-16T16:53:32+13:00</updated>
     <author>
         <name>Jake Wills</name>
     </author>
@@ -1142,7 +1142,7 @@
 </tbody>
 </table>
 <h2><strong>Sports Science </strong></h2>
-<p><span style="font-weight: 400;">The data is real data and comes from </span><span style="font-weight: 400;">http://www.statsci.org/data/oz/ais.html</span><span style="font-weight: 400;"> </span><span style="font-weight: 400;">The data set provides information about 102 male athletes and 100 female athletes at the  Australian Institute of Sport. </span></p>
+<p><span style="font-weight: 400;">The data is real data and comes from </span><span style="font-weight: 400;"><a href="http://www.statsci.org/data/oz/ais.html">http://www.statsci.org/data/oz/ais.html</a></span><span style="font-weight: 400;"> </span><span style="font-weight: 400;">The data set provides information about 102 male athletes and 100 female athletes at the  Australian Institute of Sport. You can read the full paper <a href="https://info.grapher.nz/media/files/telford1991.pdf">here</a>.</span></p>
 <table>
 <tbody>
 <tr>
