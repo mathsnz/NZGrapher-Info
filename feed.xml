@@ -3,7 +3,7 @@
     <title>NZGrapher Support</title>
     <link href="https://info.grapher.nz/feed.xml" rel="self" />
     <link href="https://info.grapher.nz" />
-    <updated>2025-02-16T16:53:32+13:00</updated>
+    <updated>2025-03-11T12:36:21+13:00</updated>
     <author>
         <name>Jake Wills</name>
     </author>
@@ -288,6 +288,11 @@
 <p>Just plots the middle box of a box-and whisker graph</p>
 <h4>Box (No Outlier)</h4>
 <p>Plots a box and whisker graph that doesn't extend to the outliers (no more than 1.5 times the IQR less than the LQ / more than the UQ).</p>
+<h4>MAD</h4>
+<p>The MAD is the Mean Absolute Deviation which is a numerical summary that measures the variation of a numerical dataset.</p>
+<figure class="post__image"><img loading="lazy"  src="https://info.grapher.nz/media/posts/14/SCR-20250311-lgqf.png" alt="" width="414" height="313" sizes="(max-width: 768px) 100vw, 768px" srcset="https://info.grapher.nz/media/posts/14/responsive/SCR-20250311-lgqf-xs.png 300w ,https://info.grapher.nz/media/posts/14/responsive/SCR-20250311-lgqf-sm.png 480w ,https://info.grapher.nz/media/posts/14/responsive/SCR-20250311-lgqf-md.png 768w"></figure>
+<p>MAD = SUM(distance between each data value and the mean) / (number of points). NZGrapher only does MAD about the mean, but it is also possible to do a MAD about a median.</p>
+<p>More details on MAD and how it can be used in teaching can be found in Pip Arnold's book Statistical Investigations (page 311-312) or <a href="https://www.nctm.org/Standards-and-Positions/GAISE-II/">GAISE II</a> (pages 58, 77-78) which includes how MAD can be used to introduce standard deviation.</p>
 <h4>DBM &amp; OVS</h4>
 <p>Displays the Difference Between Medians (DBM) and the Overall Visual Spread (OVS) when there are two groups of data. </p>
 <figure class="post__image"><img loading="lazy"  src="https://info.grapher.nz/media/posts/14/Screen-Shot-2022-08-17-at-7.35.09-PM.jpg" alt="" width="569" height="147" sizes="(max-width: 768px) 100vw, 768px" srcset="https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.35.09-PM-xs.jpg 300w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.35.09-PM-sm.jpg 480w ,https://info.grapher.nz/media/posts/14/responsive/Screen-Shot-2022-08-17-at-7.35.09-PM-md.jpg 768w"></figure>
