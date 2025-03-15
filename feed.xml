@@ -3,7 +3,7 @@
     <title>NZGrapher Support</title>
     <link href="https://info.grapher.nz/feed.xml" rel="self" />
     <link href="https://info.grapher.nz" />
-    <updated>2025-03-16T12:50:58+13:00</updated>
+    <updated>2025-03-16T12:54:22+13:00</updated>
     <author>
         <name>Jake Wills</name>
     </author>
@@ -27,7 +27,7 @@
             <![CDATA[
                 <p>These are extra datasets that aren't in the main dataset folder, but might be useful for teachers.</p>
 <p>These can be accessed from the extradata folder: <a href="https://grapher.nz/?folder=extradata">https://grapher.nz/?folder=extradata</a> </p>
-<h1>Average Sea Level</h1>
+<h2>Average Sea Level</h2>
 <p>This data is sourced from <a href="https://sealevel.nasa.gov/">https://sealevel.nasa.gov/</a> and covers through to the end of 2024.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
