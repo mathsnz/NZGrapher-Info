@@ -3,7 +3,7 @@
     <title>NZGrapher Support</title>
     <link href="https://info.grapher.nz/feed.xml" rel="self" />
     <link href="https://info.grapher.nz" />
-    <updated>2025-03-16T12:54:22+13:00</updated>
+    <updated>2025-03-20T13:45:10+13:00</updated>
     <author>
         <name>Jake Wills</name>
     </author>
@@ -27,6 +27,29 @@
             <![CDATA[
                 <p>These are extra datasets that aren't in the main dataset folder, but might be useful for teachers.</p>
 <p>These can be accessed from the extradata folder: <a href="https://grapher.nz/?folder=extradata">https://grapher.nz/?folder=extradata</a> </p>
+<h2>ANZ Truckometer</h2>
+<p>ANZ Monthly Publishes monthly data on traffic volume data from around the country. You can read more here: <a href="https://www.anz.co.nz/about-us/economic-markets-research/truckometer/">https://www.anz.co.nz/about-us/economic-markets-research/truckometer/</a></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25.5349%;"><strong>Field</strong></td>
+<td style="width: 74.465%;"><strong>Description</strong></td>
+</tr>
+<tr>
+<td style="width: 25.5349%;">Month</td>
+<td style="width: 74.465%;">Month the data is for</td>
+</tr>
+<tr>
+<td style="width: 25.5349%;">ANZ heavy traffic index</td>
+<td style="width: 74.465%;">Heavy traffic data (mostly trucks) - raw data</td>
+</tr>
+<tr>
+<td style="width: 25.5349%;">ANZ light traffic index</td>
+<td style="width: 74.465%;">Light traffic (motorbikes, cars and vans) - raw data</td>
+</tr>
+</tbody>
+</table>
+<p>This data is up to February 2025 (Released March 2025) - <a href="https://info.grapher.nz/NZ-Economic-Acronyms-Definitions.pdf">March 2025 Report</a></p>
 <h2>Average Sea Level</h2>
 <p>This data is sourced from <a href="https://sealevel.nasa.gov/">https://sealevel.nasa.gov/</a> and covers through to the end of 2024.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
@@ -715,7 +738,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <div id="min600"><div class="post__iframe"><iframe loading="lazy" width="800" height="486" title="NZGrapher Usage" src="https://app.powerbi.com/view?r=eyJrIjoiNWIwZDgwZmQtNDM5NC00YjMzLTljNmMtZTBmMmRlY2ViYjc2IiwidCI6IjU5MzFiMzg0LWFhNDEtNDI0Ni1iZTMzLWUxOGQwMzg2ZWQzNCJ9&amp;pageName=ReportSection" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div></div>
+                <div id="min600"><div class="post__iframe"><iframe loading="lazy" width="800" height="486" title="NZGrapher Usage" src="https://app.powerbi.com/view?r=eyJrIjoiYTA3MzUwZGItZDE4Yy00NDlmLTlkNDktMzljZWMxNTEwNmY0IiwidCI6IjIwZTgwNzNlLWVlNjAtNDE3YS1hNGY5LTdjMTRlMzE4NmI0ZiJ9" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div></div>
             ]]>
         </content>
     </entry>
