@@ -3,7 +3,7 @@
     <title>NZGrapher Support</title>
     <link href="https://info.grapher.nz/feed.xml" rel="self" />
     <link href="https://info.grapher.nz" />
-    <updated>2025-03-20T13:45:10+13:00</updated>
+    <updated>2025-03-22T17:56:51+13:00</updated>
     <author>
         <name>Jake Wills</name>
     </author>
@@ -70,6 +70,84 @@
 </table>
 <p>There is a article that may be useful for students as well:</p>
 <p><a href="https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6-michael-freilich/nasa-analysis-shows-unexpected-amount-of-sea-level-rise-in-2024/">https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6-michael-freilich/nasa-analysis-shows-unexpected-amount-of-sea-level-rise-in-2024/</a> </p>
+<h2>TradeMe Cars</h2>
+<p>This dataset is a random sample of cars collected from TradeMe on 21st March 2025 of cars that were listed on that day.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 26.5671%;"><strong>Field</strong></td>
+<td style="width: 73.4329%;"><strong>Description</strong></td>
+</tr>
+<tr>
+<td style="height: 16pt; width: 26.5671%;" width="87" height="21">Year</td>
+<td style="width: 73.4329%;">Model year of car</td>
+</tr>
+<tr>
+<td style="height: 16pt; width: 26.5671%;" height="21">Make</td>
+<td style="width: 73.4329%;">The make of the car</td>
+</tr>
+<tr>
+<td style="height: 16pt; width: 26.5671%;" height="21">Model</td>
+<td style="width: 73.4329%;">The model of the car</td>
+</tr>
+<tr>
+<td style="height: 16pt; width: 26.5671%;" height="21">Full Description</td>
+<td style="width: 73.4329%;">The full TradeMe description of the car</td>
+</tr>
+<tr>
+<td style="height: 16pt; width: 26.5671%;" height="21">Odometer</td>
+<td style="width: 73.4329%;">How far the car has driven</td>
+</tr>
+<tr>
+<td style="height: 16pt; width: 26.5671%;" height="21">Body Style</td>
+<td style="width: 73.4329%;">Style of car</td>
+</tr>
+<tr>
+<td style="height: 16pt; width: 26.5671%;" height="21">Seats</td>
+<td style="width: 73.4329%;">Number of seats in the car</td>
+</tr>
+<tr>
+<td style="height: 16pt; width: 26.5671%;" height="21">Fuel Type</td>
+<td style="width: 73.4329%;">Type of fuel the car uses</td>
+</tr>
+<tr>
+<td style="height: 16pt; width: 26.5671%;" height="21">Engine Size</td>
+<td style="width: 73.4329%;">Engine size of the car (bank for electric cars)</td>
+</tr>
+<tr>
+<td style="height: 16pt; width: 26.5671%;" height="21">Transmission</td>
+<td style="width: 73.4329%;">Is the car manual, automatic or tiptronic</td>
+</tr>
+<tr>
+<td style="height: 16pt; width: 26.5671%;" height="21">Colour</td>
+<td style="width: 73.4329%;">Colour of the car</td>
+</tr>
+<tr>
+<td style="height: 16pt; width: 26.5671%;" height="21">Fuel Efficiency</td>
+<td style="width: 73.4329%;">Fuel Efficiency of the car (L/100km)</td>
+</tr>
+<tr>
+<td style="height: 16pt; width: 26.5671%;" height="21">Carbon Emissions</td>
+<td style="width: 73.4329%;">Carbon emissions of the car (grams/km)</td>
+</tr>
+<tr>
+<td style="height: 16pt; width: 26.5671%;" height="21">Asking Price</td>
+<td style="width: 73.4329%;">Asking price of the car, if blank it was an auction, so no asking price.</td>
+</tr>
+<tr>
+<td style="height: 16pt; width: 26.5671%;" height="21">On Road Costs</td>
+<td style="width: 73.4329%;">Are on-road costs included</td>
+</tr>
+<tr>
+<td style="height: 16pt; width: 26.5671%;" height="21">Link</td>
+<td style="width: 73.4329%;">Link to the auction</td>
+</tr>
+<tr>
+<td style="height: 16pt; width: 26.5671%;" height="21">Listing</td>
+<td style="width: 73.4329%;">Listing Number</td>
+</tr>
+</tbody>
+</table>
             ]]>
         </content>
     </entry>
