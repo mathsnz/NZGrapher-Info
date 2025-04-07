@@ -3,7 +3,7 @@
     <title>NZGrapher Support</title>
     <link href="https://info.grapher.nz/feed.xml" rel="self" />
     <link href="https://info.grapher.nz" />
-    <updated>2025-03-22T17:56:51+13:00</updated>
+    <updated>2025-04-08T11:24:57+12:00</updated>
     <author>
         <name>Jake Wills</name>
     </author>
@@ -148,6 +148,10 @@
 </tr>
 </tbody>
 </table>
+<h2>Wellington Cycle Data</h2>
+<p>All the information for this dataset can be found <a href="https://docs.google.com/spreadsheets/d/1NiSo0kEjP6hfuNWJU5kNozZz6rPrhOQxKNDrcXOEzrA/edit?gid=76206490#gid=76206490">here.</a> </p>
+<p>This sheet has raw data, as well as some combined data from multiple sources. This allows the data to be used for multivariate, bivariate and time series investigations.</p>
+<p>The combined data isn't an exhaustive way to combine the data, so there might be other ways you could do it as well.</p>
             ]]>
         </content>
     </entry>
