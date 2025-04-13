@@ -3,7 +3,7 @@
     <title>NZGrapher Support</title>
     <link href="https://info.grapher.nz/feed.xml" rel="self" />
     <link href="https://info.grapher.nz" />
-    <updated>2025-04-08T11:24:57+12:00</updated>
+    <updated>2025-04-14T08:36:25+12:00</updated>
     <author>
         <name>Jake Wills</name>
     </author>
@@ -565,12 +565,50 @@
 <h2></h2>
 <h2>Pie Chart</h2>
 <h2>Scatter Graph</h2>
-<h4>Regression Line<br>Point Labels<br>Mean Dot<br>Quadrant Count</h4>
+<h4>Regression Line</h4>
+<p>Fits a least squared regression line to the data, and displays the equation. If your variable names are long, you can alter what shows on the graph under the "more options" button in the bottom right corner.</p>
+<h4>Point Labels</h4>
+<p>Shows numbers next to the points that correspond to the point ID in the data list.</p>
+<h4>Mean Dot</h4>
+<p>Places a dot at the mean point of both variables. A normal regression line will always pass through this point.</p>
+<h4>Quadrant Count</h4>
 <p>The Quadrant Count Ratio is a measure of association between paired numerical variables. You divide the scatter plot into 4 sections by plotting the mean point and placing a vertical and horizontal line through it.</p>
 <p>The QCR = <span style="text-decoration: underline;">(Number of Points in Q1 and Q3) - (Number of points in Q2 and Q4)</span> <br>                                 (total number of points)</p>
 <p>The QCR is always between -1 and +1, and can be converted to a percentage. If the QCR is &gt; 20% then it suggests a positive association, and &lt; -20% suggests a negative association.</p>
 <p>More details on Quadrant Count Ratio and how it can be used in teaching can be found in Pip Arnold's book Statistical Investigations (page 325-326) or <a href="https://www.nctm.org/Standards-and-Positions/GAISE-II/">GAISE II</a> (pages 60-61).</p>
-<h4>Show Ratio<br>Bootstrap Trendline<br>Jitter<br>Quadratic<br>Cubic<br>y=a*exp(b*x)<br>y=a*ln(x)+b<br>y=a*x^b<br>y=x<br>Stack Graphs<br>Gridlines<br>Invert Colours<br>Thick Lines<br>Show ID of Removed Points<br>Add Cust. Line 1/2/3<br>Show Eqn<br>Horizontal Error Bars:<br>Vertical Error Bars:</h4>
+<h4>Show Ratio</h4>
+<p>Shows the quadrant count ratio on the graph.</p>
+<h4>Bootstrap Trendline</h4>
+<p>Bootstraps the data 1000 times, and shows a trendline for each bootstrap sample, allowing you to see how stable the trendline is.</p>
+<h4>Jitter</h4>
+<p>Adjusts each point by a random amount left to right and up and down, which is useful for showing how many points there are when lots of points are in the same location.</p>
+<h4>Quadratic</h4>
+<p>Fits a quadratic trendline to the data</p>
+<h4>Cubic</h4>
+<p>Fits a cubic trendline to the data.</p>
+<h4>y=a*exp(b*x)</h4>
+<p>Fits an exponential trendline to the data.</p>
+<h4>y=a*ln(x)+b</h4>
+<p>Fits a logarithmic trendline to the data.</p>
+<h4>y=a*x^b</h4>
+<p>Fits a power trendline to the data.</p>
+<h4>y=x</h4>
+<p>Draws a dotted line along the line y=x</p>
+<h4>Colour by Dist.</h4>
+<p>This uses the Mahalanobis distance to colour points based on their distance from the bulk of the data, which makes it useful for identifying outliers. I've done a <a href="https://youtu.be/AYe81YiSNMo">video explainer on the Mahalanobis distance.</a></p>
+<p>When you use the Limit option, it only highlights the number of points chosen that are have the largest Mahalanobis distance.</p>
+<h4>Stack Graphs</h4>
+<p>Instead of drawing the graphs separately, it stacks them on top of each other, allowing you to easily compare trends.</p>
+<h4>Gridlines</h4>
+<p>Shows gridlines on the scatter graphs</p>
+<h4>Thick Lines</h4>
+<p>Makes the lines thicker</p>
+<h4>Add Cust. Line 1/2/3</h4>
+<p>Allows you to add up to three custom lines onto the graph by dragging points around to fit the lines by eye.</p>
+<h4>Show Eqn</h4>
+<p>Shows the equation of the custom lines</p>
+<h4>Horizontal / Vertical Error Bars</h4>
+<p>Allows you to add error bars to the datapoints, based on the variable you select</p>
 <h2>Grid Density Plot</h2>
 <h2>Residuals Plot</h2>
 <h2>Running Proportion</h2>
