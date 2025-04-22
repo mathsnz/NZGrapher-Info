@@ -3,7 +3,7 @@
     <title>NZGrapher Support</title>
     <link href="https://info.grapher.nz/feed.xml" rel="self" />
     <link href="https://info.grapher.nz" />
-    <updated>2025-04-14T08:36:25+12:00</updated>
+    <updated>2025-04-23T09:18:17+12:00</updated>
     <author>
         <name>Jake Wills</name>
     </author>
@@ -595,7 +595,7 @@
 <h4>y=x</h4>
 <p>Draws a dotted line along the line y=x</p>
 <h4>Colour by Dist.</h4>
-<p>This uses the Mahalanobis distance to colour points based on their distance from the bulk of the data, which makes it useful for identifying outliers. I've done a <a href="https://youtu.be/AYe81YiSNMo">video explainer on the Mahalanobis distance.</a></p>
+<p>This uses the Mahalanobis distance to colour points based on their distance from the bulk of the data, which makes it useful for identifying outliers. I've done a <a href="https://youtu.be/AYe81YiSNMo">video explainer on the Mahalanobis distance</a>. You can also play with the tool in the video <a href="https://server.mathsnz.com/mahalanobis.html">here</a>.</p>
 <p>When you use the Limit option, it only highlights the number of points chosen that are have the largest Mahalanobis distance.</p>
 <h4>Stack Graphs</h4>
 <p>Instead of drawing the graphs separately, it stacks them on top of each other, allowing you to easily compare trends.</p>
@@ -723,7 +723,7 @@
         <content type="html">
             <![CDATA[
                 <p>School folders allow teachers to load their own datasets onto NZGrapher and then share a link directly to that dataset to their students so the students don't need to individually load the dataset.</p>
-<p>(VIDEO TO COME)</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/WGCiEJrp1LY" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p id="h.p_Lqgj4XLxlUq2" class="CDt4Ke zfr3Q">If you would like a folder set up for you school, please <a href="mailto:jwills@mathsnz.com">contact me</a>.</p>
 <p id="h.p_4IMoC4_BlWtE" class="CDt4Ke zfr3Q">If you do not want students to be able to download the dataset if you prefix it with SECURE (all in capitals) the download dataset option will be unavailable.</p>
             ]]>
